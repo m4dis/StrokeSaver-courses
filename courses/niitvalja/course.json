@@ -285,5 +285,8 @@
       "label": "punane"
     }
   ],
-  "scorecardSource": "https://niitvaljagolf.ee/wp-content/uploads/2022/12/Niitvalja-Park-väljak-scorecard-veebi-2023.pdf (Park-väljak scorecard 2023; distances to green centre)"
+  "scorecardSource": "https://niitvaljagolf.ee/wp-content/uploads/2022/12/Niitvalja-Park-väljak-scorecard-veebi-2023.pdf (Park-väljak scorecard 2023; distances to green centre)",
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard"
 }

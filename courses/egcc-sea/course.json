@@ -307,5 +307,8 @@
       "label": "punane"
     }
   ],
-  "scorecardSource": "https://egcc.ee/en/sea-course-scorecard/ (2026)"
+  "scorecardSource": "https://egcc.ee/en/sea-course-scorecard/ (2026)",
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard"
 }

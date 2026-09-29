@@ -4,8 +4,8 @@
   "files": [
     {
       "path": "course.json",
-      "bytes": 5280,
-      "sha256": "08864952b67a425b3bb719e77ec8d086b1904f590a589d57c3a0151d52fe5414"
+      "bytes": 5355,
+      "sha256": "00af313de42cd00c8ee242e51838d767114c8aea2be385958d7936a81f4c663e"
     },
     {
       "path": "hole01.elev",

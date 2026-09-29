@@ -285,5 +285,8 @@
       "label": "punane"
     }
   ],
-  "scorecardSource": "https://saaregolf.ee/wp-content/uploads/2025/12/SGGC_score_card2024_210x1483.pdf"
+  "scorecardSource": "https://saaregolf.ee/wp-content/uploads/2025/12/SGGC_score_card2024_210x1483.pdf",
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard"
 }

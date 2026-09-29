@@ -1,0 +1,84 @@
+{
+  "formatVersion": 1,
+  "id": "pivarootsi",
+  "name": "Uus-Meremäe Resort Golf",
+  "club": "Uus-Meremäe Resort Golf",
+  "place": "Pivarootsi",
+  "country": "EE",
+  "par": 30,
+  "holesTotal": 9,
+  "tier": "nine",
+  "scorecardVerified": false,
+  "parSource": "estimated",
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "lengthM": 80,
+      "file": "hole01",
+      "handicap": null
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "lengthM": 87,
+      "file": "hole02",
+      "handicap": null
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "lengthM": 293,
+      "file": "hole03",
+      "handicap": null
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "lengthM": 189,
+      "file": "hole04",
+      "handicap": null
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "lengthM": 221,
+      "file": "hole05",
+      "handicap": null
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "lengthM": 330,
+      "file": "hole06",
+      "handicap": null
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "lengthM": 315,
+      "file": "hole07",
+      "handicap": null
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "lengthM": 141,
+      "file": "hole08",
+      "handicap": null
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "lengthM": 139,
+      "file": "hole09",
+      "handicap": null
+    }
+  ],
+  "attribution": [
+    "Ortofoto © Maa- ja Ruumiamet",
+    "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
+    "Rajad © OpenStreetMap kaastöötajad (ODbL)"
+  ],
+  "builtAt": "2026-09-29T13:28:33Z"
+}

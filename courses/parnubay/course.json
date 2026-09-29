@@ -285,5 +285,8 @@
       "label": "kollane"
     }
   ],
-  "scorecardSource": "https://parnubay.com/wp-content/uploads/2023/04/Pbgl_score_2020_2.pdf"
+  "scorecardSource": "https://parnubay.com/wp-content/uploads/2023/04/Pbgl_score_2020_2.pdf",
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard"
 }

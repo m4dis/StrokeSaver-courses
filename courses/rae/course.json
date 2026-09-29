@@ -285,5 +285,8 @@
       "label": "punane"
     }
   ],
-  "scorecardSource": "https://raegolf.ee/static/Rae_Scorecard-2024_151x2723mm.pdf (Rae Golf scorecard 2024; image-only PDF, read visually). Note: printed yellow OUT total 2865 but the front-nine yellow holes sum to 2855."
+  "scorecardSource": "https://raegolf.ee/static/Rae_Scorecard-2024_151x2723mm.pdf (Rae Golf scorecard 2024; image-only PDF, read visually). Note: printed yellow OUT total 2865 but the front-nine yellow holes sum to 2855.",
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard"
 }

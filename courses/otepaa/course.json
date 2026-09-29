@@ -285,5 +285,8 @@
       "label": "punane"
     }
   ],
-  "scorecardSource": "https://otepaagolf.com/wp-content/uploads/2022/04/Scorecard_veeb.pdf"
+  "scorecardSource": "https://otepaagolf.com/wp-content/uploads/2022/04/Scorecard_veeb.pdf",
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard"
 }
