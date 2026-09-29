@@ -1,11 +1,11 @@
 {
   "id": "rae",
-  "version": "2026-09-29T09:29:20Z",
+  "version": "2026-09-29T14:38:54Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 5416,
-      "sha256": "3fcd4a0983b57532a117aac5865fae1cf28dee527f41940d2770e41310ddb494"
+      "sha256": "bae7c4b93e39e15d488fda467cc524823de83f50171af8e0ea3323bf91be7c7a"
     },
     {
       "path": "hole01.elev",
@@ -19,8 +19,8 @@
     },
     {
       "path": "hole01.json",
-      "bytes": 53344,
-      "sha256": "1209bc6bede64e1443f5b976526d0a906985268f1929da06434535bc5a9d1acb"
+      "bytes": 61804,
+      "sha256": "e949bb1578f7b2f80c5e5f4bb98d80e21102c798245b7a0e87ea147b897ec5c5"
     },
     {
       "path": "hole02.elev",
@@ -154,8 +154,8 @@
     },
     {
       "path": "hole10.json",
-      "bytes": 64607,
-      "sha256": "5b31207a5355bd519434fb5b459f6d5e86d4b426371d56c4587ad71d4ed088e4"
+      "bytes": 72621,
+      "sha256": "24afbf51ceadc7f1c84113d3865336a49b83bb78240e5e6e2040f2bb06113e36"
     },
     {
       "path": "hole11.elev",

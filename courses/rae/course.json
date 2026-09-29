@@ -7,6 +7,9 @@
   "country": "EE",
   "par": 72,
   "holesTotal": 18,
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard",
   "holes": [
     {
       "number": 1,
@@ -266,7 +269,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-29T09:29:20Z",
+  "builtAt": "2026-09-29T14:38:54Z",
   "scorecardTees": [
     {
       "id": "white",
@@ -285,8 +288,5 @@
       "label": "punane"
     }
   ],
-  "scorecardSource": "https://raegolf.ee/static/Rae_Scorecard-2024_151x2723mm.pdf (Rae Golf scorecard 2024; image-only PDF, read visually). Note: printed yellow OUT total 2865 but the front-nine yellow holes sum to 2855.",
-  "tier": "full",
-  "scorecardVerified": true,
-  "parSource": "scorecard"
+  "scorecardSource": "https://raegolf.ee/static/Rae_Scorecard-2024_151x2723mm.pdf (Rae Golf scorecard 2024; image-only PDF, read visually). Note: printed yellow OUT total 2865 but the front-nine yellow holes sum to 2855."
 }
