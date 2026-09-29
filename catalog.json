@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "generatedAt": "2026-09-29T15:01:05Z",
+  "generatedAt": "2026-09-29T16:02:16Z",
   "courses": [
     {
       "id": "egcc-sea",
@@ -57,8 +57,8 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 73,
-      "version": "2026-09-29T14:27:23Z",
-      "bytes": 13240657,
+      "version": "2026-09-29T15:58:29Z",
+      "bytes": 13249527,
       "manifest": "courses/otepaa/manifest.json",
       "thumb": "courses/otepaa/thumb.jpg",
       "holesMapped": 18,
