@@ -1,0 +1,311 @@
+{
+  "formatVersion": 1,
+  "id": "egcc-sea",
+  "name": "EGCC Sea Course",
+  "club": "Estonian Golf & Country Club",
+  "place": "Jõelähtme",
+  "country": "EE",
+  "par": 72,
+  "holesTotal": 18,
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "lengthM": 529,
+      "file": "hole01",
+      "handicap": 5,
+      "name": "Paepõhja",
+      "scorecard": {
+        "65": 530,
+        "62": 500,
+        "57": 456,
+        "53": 416,
+        "51": 414
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "lengthM": 350,
+      "file": "hole02",
+      "handicap": 13,
+      "name": "Rändrahnu",
+      "scorecard": {
+        "65": 350,
+        "62": 346,
+        "57": 298,
+        "53": 294,
+        "51": 266
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "lengthM": 352,
+      "file": "hole03",
+      "handicap": 11,
+      "name": "Hiietamme",
+      "scorecard": {
+        "65": 352,
+        "62": 348,
+        "57": 310,
+        "53": 284,
+        "51": 282
+      }
+    },
+    {
+      "number": 4,
+      "par": 4,
+      "lengthM": 429,
+      "file": "hole04",
+      "handicap": 1,
+      "name": "Savikillu",
+      "scorecard": {
+        "65": 444,
+        "62": 426,
+        "57": 380,
+        "53": 334,
+        "51": 330
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "lengthM": 153,
+      "file": "hole05",
+      "handicap": 17,
+      "name": "Helme",
+      "scorecard": {
+        "65": 158,
+        "62": 154,
+        "57": 140,
+        "53": 136,
+        "51": 110
+      }
+    },
+    {
+      "number": 6,
+      "par": 5,
+      "lengthM": 487,
+      "file": "hole06",
+      "handicap": 9,
+      "name": "Kuldikihva",
+      "scorecard": {
+        "65": 520,
+        "62": 488,
+        "57": 466,
+        "53": 462,
+        "51": 428
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "lengthM": 408,
+      "file": "hole07",
+      "handicap": 3,
+      "name": "Koprasaba",
+      "scorecard": {
+        "65": 406,
+        "62": 370,
+        "57": 346,
+        "53": 342,
+        "51": 342
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "lengthM": 188,
+      "file": "hole08",
+      "handicap": 15,
+      "name": "Tuleraua",
+      "scorecard": {
+        "65": 192,
+        "62": 188,
+        "57": 166,
+        "53": 162,
+        "51": 136
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "lengthM": 345,
+      "file": "hole09",
+      "handicap": 7,
+      "name": "Odaotsa",
+      "scorecard": {
+        "65": 346,
+        "62": 342,
+        "57": 316,
+        "53": 280,
+        "51": 276
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "lengthM": 132,
+      "file": "hole10",
+      "handicap": 18,
+      "name": "Ohvrikivi",
+      "scorecard": {
+        "65": 156,
+        "62": 144,
+        "57": 140,
+        "53": 124,
+        "51": 106
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "lengthM": 402,
+      "file": "hole11",
+      "handicap": 8,
+      "name": "Roigasaia",
+      "scorecard": {
+        "65": 402,
+        "62": 398,
+        "57": 354,
+        "53": 334,
+        "51": 330
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "lengthM": 335,
+      "file": "hole12",
+      "handicap": 16,
+      "name": "Hundinuia",
+      "scorecard": {
+        "65": 340,
+        "62": 336,
+        "57": 306,
+        "53": 302,
+        "51": 278
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "lengthM": 382,
+      "file": "hole13",
+      "handicap": 4,
+      "name": "Tammesalu",
+      "scorecard": {
+        "65": 380,
+        "62": 328,
+        "57": 324,
+        "53": 290,
+        "51": 286
+      }
+    },
+    {
+      "number": 14,
+      "par": 4,
+      "lengthM": 356,
+      "file": "hole14",
+      "handicap": 14,
+      "name": "Jõekääru",
+      "scorecard": {
+        "65": 360,
+        "62": 356,
+        "57": 322,
+        "53": 290,
+        "51": 286
+      }
+    },
+    {
+      "number": 15,
+      "par": 5,
+      "lengthM": 522,
+      "file": "hole15",
+      "handicap": 2,
+      "name": "Muinasranna",
+      "scorecard": {
+        "65": 524,
+        "62": 490,
+        "57": 456,
+        "53": 420,
+        "51": 416
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "lengthM": 336,
+      "file": "hole16",
+      "handicap": 10,
+      "name": "Rannakarbi",
+      "scorecard": {
+        "65": 338,
+        "62": 332,
+        "57": 308,
+        "53": 304,
+        "51": 276
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "lengthM": 179,
+      "file": "hole17",
+      "handicap": 12,
+      "name": "Kivikirve",
+      "scorecard": {
+        "65": 180,
+        "62": 176,
+        "57": 156,
+        "53": 126,
+        "51": 122
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "lengthM": 524,
+      "file": "hole18",
+      "handicap": 6,
+      "name": "Rahapaja",
+      "scorecard": {
+        "65": 526,
+        "62": 480,
+        "57": 448,
+        "53": 418,
+        "51": 414
+      }
+    }
+  ],
+  "attribution": [
+    "Ortofoto © Maa- ja Ruumiamet",
+    "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
+    "Rajad © OpenStreetMap kaastöötajad (ODbL)"
+  ],
+  "builtAt": "2026-09-29T09:23:38Z",
+  "scorecardTees": [
+    {
+      "id": "65",
+      "label": "must"
+    },
+    {
+      "id": "62",
+      "label": "valge"
+    },
+    {
+      "id": "57",
+      "label": "kollane"
+    },
+    {
+      "id": "53",
+      "label": "sinine"
+    },
+    {
+      "id": "51",
+      "label": "punane"
+    }
+  ],
+  "scorecardSource": "https://egcc.ee/en/sea-course-scorecard/ (2026)"
+}

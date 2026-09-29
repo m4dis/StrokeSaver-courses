@@ -1,0 +1,174 @@
+{
+  "catalogVersion": 1,
+  "generatedAt": "2026-09-29T11:29:20Z",
+  "courses": [
+    {
+      "id": "egcc-sea",
+      "name": "EGCC Sea Course",
+      "club": "Estonian Golf & Country Club",
+      "place": "Jõelähtme",
+      "country": "EE",
+      "lat": 59.47185,
+      "lon": 25.141787,
+      "holesTotal": 18,
+      "par": 72,
+      "version": "2026-09-29T09:23:38Z",
+      "bytes": 12812726,
+      "manifest": "courses/egcc-sea/manifest.json",
+      "thumb": "courses/egcc-sea/thumb.jpg",
+      "holesMapped": 18,
+      "imagery": {
+        "flightDate": "2022-06-11",
+        "source": "geoportal"
+      },
+      "mappingConfidence": null
+    },
+    {
+      "id": "niitvalja",
+      "name": "Niitvälja Golf",
+      "club": "Niitvälja Golf",
+      "place": "Keila",
+      "country": "EE",
+      "lat": 59.318978,
+      "lon": 24.304659,
+      "holesTotal": 18,
+      "par": 72,
+      "version": "2026-09-29T09:27:01Z",
+      "bytes": 13600822,
+      "manifest": "courses/niitvalja/manifest.json",
+      "thumb": "courses/niitvalja/thumb.jpg",
+      "holesMapped": 18,
+      "imagery": {
+        "flightDate": null,
+        "source": "wms"
+      },
+      "mappingConfidence": "low"
+    },
+    {
+      "id": "otepaa",
+      "name": "Otepää Golf",
+      "club": "Otepää Golf",
+      "place": "Otepää",
+      "country": "EE",
+      "lat": 58.054239,
+      "lon": 26.406406,
+      "holesTotal": 18,
+      "par": 73,
+      "version": "2026-09-29T09:23:56Z",
+      "bytes": 12574334,
+      "manifest": "courses/otepaa/manifest.json",
+      "thumb": "courses/otepaa/thumb.jpg",
+      "holesMapped": 18,
+      "imagery": {
+        "flightDate": null,
+        "source": "wms"
+      },
+      "mappingConfidence": "low"
+    },
+    {
+      "id": "parnubay",
+      "name": "Pärnu Bay Golf Links",
+      "club": "Pärnu Bay Golf Links",
+      "place": "Reiu küla, Tahkuranna vald, Pärnumaa",
+      "country": "EE",
+      "lat": 58.334514,
+      "lon": 24.582319,
+      "holesTotal": 18,
+      "par": 72,
+      "version": "2026-09-29T09:24:32Z",
+      "bytes": 11319275,
+      "manifest": "courses/parnubay/manifest.json",
+      "thumb": "courses/parnubay/thumb.jpg",
+      "holesMapped": 18,
+      "imagery": {
+        "flightDate": "2023-06-09",
+        "source": "geoportal"
+      },
+      "mappingConfidence": null
+    },
+    {
+      "id": "rae",
+      "name": "Rae Golf",
+      "club": "Rae Golf",
+      "place": "Rae",
+      "country": "EE",
+      "lat": 59.309352,
+      "lon": 24.973996,
+      "holesTotal": 18,
+      "par": 72,
+      "version": "2026-09-29T09:29:20Z",
+      "bytes": 11932317,
+      "manifest": "courses/rae/manifest.json",
+      "thumb": "courses/rae/thumb.jpg",
+      "holesMapped": 18,
+      "imagery": {
+        "flightDate": "2022-06-11",
+        "source": "geoportal"
+      },
+      "mappingConfidence": "low"
+    },
+    {
+      "id": "rouge",
+      "name": "Rõuge Golf",
+      "club": "Rõuge Golf",
+      "place": "Rõuge",
+      "country": "EE",
+      "lat": 57.724482,
+      "lon": 26.918875,
+      "holesTotal": 9,
+      "par": 33,
+      "version": "2026-09-29T09:30:02Z",
+      "bytes": 2025314,
+      "manifest": "courses/rouge/manifest.json",
+      "thumb": "courses/rouge/thumb.jpg",
+      "holesMapped": 9,
+      "imagery": {
+        "flightDate": "2021-06-17",
+        "source": "geoportal"
+      },
+      "mappingConfidence": "low"
+    },
+    {
+      "id": "saare",
+      "name": "Saaremaa Golf & Country Club",
+      "club": "Saaremaa Golf & Country Club",
+      "place": "Kuressaare, Saaremaa",
+      "country": "EE",
+      "lat": 58.257014,
+      "lon": 22.463107,
+      "holesTotal": 18,
+      "par": 72,
+      "version": "2026-09-29T09:26:07Z",
+      "bytes": 11912464,
+      "manifest": "courses/saare/manifest.json",
+      "thumb": "courses/saare/thumb.jpg",
+      "holesMapped": 18,
+      "imagery": {
+        "flightDate": "2019-06-06",
+        "source": "geoportal"
+      },
+      "mappingConfidence": null
+    },
+    {
+      "id": "wbg",
+      "name": "White Beach Golf",
+      "club": "White Beach Golf",
+      "place": "Valgeranna",
+      "country": "EE",
+      "lat": 58.394661,
+      "lon": 24.378165,
+      "holesTotal": 18,
+      "par": 72,
+      "version": "2026-09-29T09:26:47Z",
+      "bytes": 9758060,
+      "manifest": "courses/wbg/manifest.json",
+      "thumb": "courses/wbg/thumb.jpg",
+      "holesMapped": 18,
+      "imagery": {
+        "flightDate": "2023-06-09",
+        "source": "geoportal"
+      },
+      "mappingConfidence": null
+    }
+  ]
+}

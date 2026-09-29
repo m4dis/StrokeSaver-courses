@@ -1,0 +1,289 @@
+{
+  "formatVersion": 1,
+  "id": "otepaa",
+  "name": "Otepää Golf",
+  "club": "Otepää Golf",
+  "place": "Otepää",
+  "country": "EE",
+  "par": 73,
+  "holesTotal": 18,
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "lengthM": 492,
+      "file": "hole01",
+      "handicap": 4,
+      "name": null,
+      "scorecard": {
+        "white": 490,
+        "yellow": 479,
+        "blue": 435,
+        "red": 435
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "lengthM": 315,
+      "file": "hole02",
+      "handicap": 10,
+      "name": null,
+      "scorecard": {
+        "white": 328,
+        "yellow": 316,
+        "blue": 269,
+        "red": 269
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "lengthM": 256,
+      "file": "hole03",
+      "handicap": 18,
+      "name": null,
+      "scorecard": {
+        "white": 269,
+        "yellow": 254,
+        "blue": 254,
+        "red": 219
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "lengthM": 130,
+      "file": "hole04",
+      "handicap": 16,
+      "name": null,
+      "scorecard": {
+        "white": 132,
+        "yellow": 123,
+        "blue": 123,
+        "red": 115
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "lengthM": 328,
+      "file": "hole05",
+      "handicap": 14,
+      "name": null,
+      "scorecard": {
+        "white": 326,
+        "yellow": 309,
+        "blue": 288,
+        "red": 288
+      }
+    },
+    {
+      "number": 6,
+      "par": 3,
+      "lengthM": 168,
+      "file": "hole06",
+      "handicap": 12,
+      "name": null,
+      "scorecard": {
+        "white": 168,
+        "yellow": 157,
+        "blue": 157,
+        "red": 124
+      }
+    },
+    {
+      "number": 7,
+      "par": 4,
+      "lengthM": 236,
+      "file": "hole07",
+      "handicap": 8,
+      "name": null,
+      "scorecard": {
+        "white": 239,
+        "yellow": 229,
+        "blue": 197,
+        "red": 197
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "lengthM": 371,
+      "file": "hole08",
+      "handicap": 6,
+      "name": null,
+      "scorecard": {
+        "white": 365,
+        "yellow": 360,
+        "blue": 325,
+        "red": 325
+      }
+    },
+    {
+      "number": 9,
+      "par": 5,
+      "lengthM": 461,
+      "file": "hole09",
+      "handicap": 2,
+      "name": null,
+      "scorecard": {
+        "white": 464,
+        "yellow": 428,
+        "blue": 380,
+        "red": 380
+      }
+    },
+    {
+      "number": 10,
+      "par": 6,
+      "lengthM": 628,
+      "file": "hole10",
+      "handicap": 3,
+      "name": null,
+      "scorecard": {
+        "white": 677,
+        "yellow": 602,
+        "blue": 602,
+        "red": 535
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "lengthM": 289,
+      "file": "hole11",
+      "handicap": 9,
+      "name": null,
+      "scorecard": {
+        "white": 349,
+        "yellow": 298,
+        "blue": 298,
+        "red": 290
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "lengthM": 284,
+      "file": "hole12",
+      "handicap": 13,
+      "name": null,
+      "scorecard": {
+        "white": 300,
+        "yellow": 290,
+        "blue": 280,
+        "red": 280
+      }
+    },
+    {
+      "number": 13,
+      "par": 3,
+      "lengthM": 157,
+      "file": "hole13",
+      "handicap": 17,
+      "name": null,
+      "scorecard": {
+        "white": 170,
+        "yellow": 124,
+        "blue": 124,
+        "red": 98
+      }
+    },
+    {
+      "number": 14,
+      "par": 5,
+      "lengthM": 536,
+      "file": "hole14",
+      "handicap": 5,
+      "name": null,
+      "scorecard": {
+        "white": 548,
+        "yellow": 505,
+        "blue": 448,
+        "red": 448
+      }
+    },
+    {
+      "number": 15,
+      "par": 3,
+      "lengthM": 158,
+      "file": "hole15",
+      "handicap": 11,
+      "name": null,
+      "scorecard": {
+        "white": 169,
+        "yellow": 165,
+        "blue": 135,
+        "red": 135
+      }
+    },
+    {
+      "number": 16,
+      "par": 3,
+      "lengthM": 132,
+      "file": "hole16",
+      "handicap": 15,
+      "name": null,
+      "scorecard": {
+        "white": 135,
+        "yellow": 127,
+        "blue": 118,
+        "red": 118
+      }
+    },
+    {
+      "number": 17,
+      "par": 5,
+      "lengthM": 544,
+      "file": "hole17",
+      "handicap": 1,
+      "name": null,
+      "scorecard": {
+        "white": 554,
+        "yellow": 510,
+        "blue": 465,
+        "red": 465
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "lengthM": 384,
+      "file": "hole18",
+      "handicap": 7,
+      "name": null,
+      "scorecard": {
+        "white": 390,
+        "yellow": 375,
+        "blue": 345,
+        "red": 345
+      }
+    }
+  ],
+  "attribution": [
+    "Ortofoto © Maa- ja Ruumiamet",
+    "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
+    "Rajad © OpenStreetMap kaastöötajad (ODbL)"
+  ],
+  "builtAt": "2026-09-29T09:23:56Z",
+  "scorecardTees": [
+    {
+      "id": "white",
+      "label": "valge"
+    },
+    {
+      "id": "yellow",
+      "label": "kollane"
+    },
+    {
+      "id": "blue",
+      "label": "sinine"
+    },
+    {
+      "id": "red",
+      "label": "punane"
+    }
+  ],
+  "scorecardSource": "https://otepaagolf.com/wp-content/uploads/2022/04/Scorecard_veeb.pdf"
+}

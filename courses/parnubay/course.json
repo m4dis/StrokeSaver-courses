@@ -1,0 +1,289 @@
+{
+  "formatVersion": 1,
+  "id": "parnubay",
+  "name": "Pärnu Bay Golf Links",
+  "club": "Pärnu Bay Golf Links",
+  "place": "Reiu küla, Tahkuranna vald, Pärnumaa",
+  "country": "EE",
+  "par": 72,
+  "holesTotal": 18,
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "lengthM": 470,
+      "file": "hole01",
+      "handicap": 5,
+      "name": null,
+      "scorecard": {
+        "pike": 463,
+        "bream": 438,
+        "perch": 428,
+        "burbot": 385
+      }
+    },
+    {
+      "number": 2,
+      "par": 3,
+      "lengthM": 154,
+      "file": "hole02",
+      "handicap": 13,
+      "name": null,
+      "scorecard": {
+        "pike": 156,
+        "bream": 130,
+        "perch": 114,
+        "burbot": 91
+      }
+    },
+    {
+      "number": 3,
+      "par": 5,
+      "lengthM": 506,
+      "file": "hole03",
+      "handicap": 1,
+      "name": null,
+      "scorecard": {
+        "pike": 504,
+        "bream": 474,
+        "perch": 465,
+        "burbot": 413
+      }
+    },
+    {
+      "number": 4,
+      "par": 3,
+      "lengthM": 147,
+      "file": "hole04",
+      "handicap": 17,
+      "name": null,
+      "scorecard": {
+        "pike": 173,
+        "bream": 155,
+        "perch": 146,
+        "burbot": 131
+      }
+    },
+    {
+      "number": 5,
+      "par": 4,
+      "lengthM": 386,
+      "file": "hole05",
+      "handicap": 3,
+      "name": null,
+      "scorecard": {
+        "pike": 386,
+        "bream": 362,
+        "perch": 356,
+        "burbot": 315
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "lengthM": 385,
+      "file": "hole06",
+      "handicap": 11,
+      "name": null,
+      "scorecard": {
+        "pike": 381,
+        "bream": 342,
+        "perch": 333,
+        "burbot": 303
+      }
+    },
+    {
+      "number": 7,
+      "par": 5,
+      "lengthM": 455,
+      "file": "hole07",
+      "handicap": 7,
+      "name": null,
+      "scorecard": {
+        "pike": 461,
+        "bream": 429,
+        "perch": 420,
+        "burbot": 384
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "lengthM": 291,
+      "file": "hole08",
+      "handicap": 15,
+      "name": null,
+      "scorecard": {
+        "pike": 338,
+        "bream": 300,
+        "perch": 292,
+        "burbot": 237
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "lengthM": 381,
+      "file": "hole09",
+      "handicap": 9,
+      "name": null,
+      "scorecard": {
+        "pike": 382,
+        "bream": 340,
+        "perch": 331,
+        "burbot": 283
+      }
+    },
+    {
+      "number": 10,
+      "par": 5,
+      "lengthM": 529,
+      "file": "hole10",
+      "handicap": 2,
+      "name": null,
+      "scorecard": {
+        "pike": 532,
+        "bream": 498,
+        "perch": 491,
+        "burbot": 386
+      }
+    },
+    {
+      "number": 11,
+      "par": 3,
+      "lengthM": 215,
+      "file": "hole11",
+      "handicap": 4,
+      "name": null,
+      "scorecard": {
+        "pike": 215,
+        "bream": 169,
+        "perch": 157,
+        "burbot": 142
+      }
+    },
+    {
+      "number": 12,
+      "par": 4,
+      "lengthM": 355,
+      "file": "hole12",
+      "handicap": 8,
+      "name": null,
+      "scorecard": {
+        "pike": 389,
+        "bream": 346,
+        "perch": 307,
+        "burbot": 288
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "lengthM": 295,
+      "file": "hole13",
+      "handicap": 18,
+      "name": null,
+      "scorecard": {
+        "pike": 303,
+        "bream": 294,
+        "perch": 286,
+        "burbot": 252
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "lengthM": 140,
+      "file": "hole14",
+      "handicap": 16,
+      "name": null,
+      "scorecard": {
+        "pike": 139,
+        "bream": 130,
+        "perch": 120,
+        "burbot": 111
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "lengthM": 303,
+      "file": "hole15",
+      "handicap": 12,
+      "name": null,
+      "scorecard": {
+        "pike": 305,
+        "bream": 260,
+        "perch": 253,
+        "burbot": 197
+      }
+    },
+    {
+      "number": 16,
+      "par": 4,
+      "lengthM": 352,
+      "file": "hole16",
+      "handicap": 10,
+      "name": null,
+      "scorecard": {
+        "pike": 355,
+        "bream": 299,
+        "perch": 292,
+        "burbot": 251
+      }
+    },
+    {
+      "number": 17,
+      "par": 3,
+      "lengthM": 165,
+      "file": "hole17",
+      "handicap": 14,
+      "name": null,
+      "scorecard": {
+        "pike": 167,
+        "bream": 158,
+        "perch": 152,
+        "burbot": 128
+      }
+    },
+    {
+      "number": 18,
+      "par": 5,
+      "lengthM": 492,
+      "file": "hole18",
+      "handicap": 6,
+      "name": null,
+      "scorecard": {
+        "pike": 494,
+        "bream": 454,
+        "perch": 447,
+        "burbot": 385
+      }
+    }
+  ],
+  "attribution": [
+    "Ortofoto © Maa- ja Ruumiamet",
+    "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
+    "Rajad © OpenStreetMap kaastöötajad (ODbL)"
+  ],
+  "builtAt": "2026-09-29T09:24:32Z",
+  "scorecardTees": [
+    {
+      "id": "pike",
+      "label": "must (tips)"
+    },
+    {
+      "id": "bream",
+      "label": "punane"
+    },
+    {
+      "id": "perch",
+      "label": "valge"
+    },
+    {
+      "id": "burbot",
+      "label": "kollane"
+    }
+  ],
+  "scorecardSource": "https://parnubay.com/wp-content/uploads/2023/04/Pbgl_score_2020_2.pdf"
+}

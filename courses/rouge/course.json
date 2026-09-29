@@ -1,0 +1,137 @@
+{
+  "formatVersion": 1,
+  "id": "rouge",
+  "name": "Rõuge Golf",
+  "club": "Rõuge Golf",
+  "place": "Rõuge",
+  "country": "EE",
+  "par": 33,
+  "holesTotal": 9,
+  "holes": [
+    {
+      "number": 1,
+      "par": 3,
+      "lengthM": 154,
+      "file": "hole01",
+      "handicap": null,
+      "name": "Esimene rada",
+      "scorecard": {
+        "men": 155,
+        "women": 155
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "lengthM": 215,
+      "file": "hole02",
+      "handicap": null,
+      "name": "Asfaldi rada",
+      "scorecard": {
+        "men": 216,
+        "women": 216
+      }
+    },
+    {
+      "number": 3,
+      "par": 3,
+      "lengthM": 95,
+      "file": "hole03",
+      "handicap": null,
+      "name": "Soolika rada",
+      "scorecard": {
+        "men": 98,
+        "women": 98
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "lengthM": 312,
+      "file": "hole04",
+      "handicap": null,
+      "name": "Viitina rada",
+      "scorecard": {
+        "men": 310,
+        "women": 310
+      }
+    },
+    {
+      "number": 5,
+      "par": 5,
+      "lengthM": 315,
+      "file": "hole05",
+      "handicap": null,
+      "name": "Maraton rada",
+      "scorecard": {
+        "men": 325,
+        "women": 325
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "lengthM": 202,
+      "file": "hole06",
+      "handicap": null,
+      "name": "Metsanurga rada",
+      "scorecard": {
+        "men": 208,
+        "women": 208
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "lengthM": 107,
+      "file": "hole07",
+      "handicap": null,
+      "name": "Koridori rada",
+      "scorecard": {
+        "men": 110,
+        "women": 110
+      }
+    },
+    {
+      "number": 8,
+      "par": 3,
+      "lengthM": 80,
+      "file": "hole08",
+      "handicap": null,
+      "name": "Pingi rada",
+      "scorecard": {
+        "men": 80,
+        "women": 80
+      }
+    },
+    {
+      "number": 9,
+      "par": 3,
+      "lengthM": 148,
+      "file": "hole09",
+      "handicap": null,
+      "name": "Raffi rada",
+      "scorecard": {
+        "men": 150,
+        "women": 150
+      }
+    }
+  ],
+  "attribution": [
+    "Ortofoto © Maa- ja Ruumiamet",
+    "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
+    "Rajad © OpenStreetMap kaastöötajad (ODbL)"
+  ],
+  "builtAt": "2026-09-29T09:30:02Z",
+  "scorecardTees": [
+    {
+      "id": "men",
+      "label": "mehed"
+    },
+    {
+      "id": "women",
+      "label": "naised"
+    }
+  ],
+  "scorecardSource": "https://rougegolf.ee/valjak (course data served by the site; same values on the club course map https://rougegolf.ee/assets/course-map-Bo7j2lEG.jpg \"Rõuge golfiväljak 2022\": 9 holes, PAR 33, 1652 m). No stroke index published; men and women play the same tees."
+}

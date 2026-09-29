@@ -1,0 +1,289 @@
+{
+  "formatVersion": 1,
+  "id": "saare",
+  "name": "Saaremaa Golf & Country Club",
+  "club": "Saaremaa Golf & Country Club",
+  "place": "Kuressaare, Saaremaa",
+  "country": "EE",
+  "par": 72,
+  "holesTotal": 18,
+  "holes": [
+    {
+      "number": 1,
+      "par": 5,
+      "lengthM": 497,
+      "file": "hole01",
+      "handicap": 13,
+      "name": null,
+      "scorecard": {
+        "white": 495,
+        "yellow": 461,
+        "blue": 422,
+        "red": 417
+      }
+    },
+    {
+      "number": 2,
+      "par": 4,
+      "lengthM": 365,
+      "file": "hole02",
+      "handicap": 11,
+      "name": null,
+      "scorecard": {
+        "white": 366,
+        "yellow": 337,
+        "blue": 309,
+        "red": 304
+      }
+    },
+    {
+      "number": 3,
+      "par": 4,
+      "lengthM": 340,
+      "file": "hole03",
+      "handicap": 7,
+      "name": null,
+      "scorecard": {
+        "white": 346,
+        "yellow": 325,
+        "blue": 318,
+        "red": 287
+      }
+    },
+    {
+      "number": 4,
+      "par": 5,
+      "lengthM": 523,
+      "file": "hole04",
+      "handicap": 15,
+      "name": null,
+      "scorecard": {
+        "white": 522,
+        "yellow": 462,
+        "blue": 456,
+        "red": 387
+      }
+    },
+    {
+      "number": 5,
+      "par": 3,
+      "lengthM": 116,
+      "file": "hole05",
+      "handicap": 17,
+      "name": null,
+      "scorecard": {
+        "white": 120,
+        "yellow": 115,
+        "blue": 110,
+        "red": 93
+      }
+    },
+    {
+      "number": 6,
+      "par": 4,
+      "lengthM": 352,
+      "file": "hole06",
+      "handicap": 5,
+      "name": null,
+      "scorecard": {
+        "white": 354,
+        "yellow": 335,
+        "blue": 331,
+        "red": 292
+      }
+    },
+    {
+      "number": 7,
+      "par": 3,
+      "lengthM": 223,
+      "file": "hole07",
+      "handicap": 3,
+      "name": null,
+      "scorecard": {
+        "white": 223,
+        "yellow": 199,
+        "blue": 163,
+        "red": 159
+      }
+    },
+    {
+      "number": 8,
+      "par": 4,
+      "lengthM": 397,
+      "file": "hole08",
+      "handicap": 1,
+      "name": null,
+      "scorecard": {
+        "white": 398,
+        "yellow": 360,
+        "blue": 336,
+        "red": 308
+      }
+    },
+    {
+      "number": 9,
+      "par": 4,
+      "lengthM": 339,
+      "file": "hole09",
+      "handicap": 9,
+      "name": null,
+      "scorecard": {
+        "white": 342,
+        "yellow": 315,
+        "blue": 309,
+        "red": 279
+      }
+    },
+    {
+      "number": 10,
+      "par": 3,
+      "lengthM": 151,
+      "file": "hole10",
+      "handicap": 10,
+      "name": null,
+      "scorecard": {
+        "white": 119,
+        "yellow": 101,
+        "blue": 98,
+        "red": 83
+      }
+    },
+    {
+      "number": 11,
+      "par": 4,
+      "lengthM": 419,
+      "file": "hole11",
+      "handicap": 4,
+      "name": null,
+      "scorecard": {
+        "white": 419,
+        "yellow": 381,
+        "blue": 356,
+        "red": 331
+      }
+    },
+    {
+      "number": 12,
+      "par": 5,
+      "lengthM": 493,
+      "file": "hole12",
+      "handicap": 16,
+      "name": null,
+      "scorecard": {
+        "white": 494,
+        "yellow": 479,
+        "blue": 474,
+        "red": 390
+      }
+    },
+    {
+      "number": 13,
+      "par": 4,
+      "lengthM": 324,
+      "file": "hole13",
+      "handicap": 12,
+      "name": null,
+      "scorecard": {
+        "white": 325,
+        "yellow": 304,
+        "blue": 297,
+        "red": 279
+      }
+    },
+    {
+      "number": 14,
+      "par": 3,
+      "lengthM": 157,
+      "file": "hole14",
+      "handicap": 8,
+      "name": null,
+      "scorecard": {
+        "white": 160,
+        "yellow": 152,
+        "blue": 127,
+        "red": 121
+      }
+    },
+    {
+      "number": 15,
+      "par": 4,
+      "lengthM": 360,
+      "file": "hole15",
+      "handicap": 14,
+      "name": null,
+      "scorecard": {
+        "white": 361,
+        "yellow": 330,
+        "blue": 300,
+        "red": 268
+      }
+    },
+    {
+      "number": 16,
+      "par": 5,
+      "lengthM": 502,
+      "file": "hole16",
+      "handicap": 18,
+      "name": null,
+      "scorecard": {
+        "white": 502,
+        "yellow": 436,
+        "blue": 430,
+        "red": 397
+      }
+    },
+    {
+      "number": 17,
+      "par": 4,
+      "lengthM": 387,
+      "file": "hole17",
+      "handicap": 6,
+      "name": null,
+      "scorecard": {
+        "white": 388,
+        "yellow": 359,
+        "blue": 353,
+        "red": 321
+      }
+    },
+    {
+      "number": 18,
+      "par": 4,
+      "lengthM": 380,
+      "file": "hole18",
+      "handicap": 2,
+      "name": null,
+      "scorecard": {
+        "white": 382,
+        "yellow": 353,
+        "blue": 347,
+        "red": 321
+      }
+    }
+  ],
+  "attribution": [
+    "Ortofoto © Maa- ja Ruumiamet",
+    "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
+    "Rajad © OpenStreetMap kaastöötajad (ODbL)"
+  ],
+  "builtAt": "2026-09-29T09:26:07Z",
+  "scorecardTees": [
+    {
+      "id": "white",
+      "label": "valge"
+    },
+    {
+      "id": "yellow",
+      "label": "kollane"
+    },
+    {
+      "id": "blue",
+      "label": "sinine"
+    },
+    {
+      "id": "red",
+      "label": "punane"
+    }
+  ],
+  "scorecardSource": "https://saaregolf.ee/wp-content/uploads/2025/12/SGGC_score_card2024_210x1483.pdf"
+}
