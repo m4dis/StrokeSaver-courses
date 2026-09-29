@@ -1,11 +1,11 @@
 {
   "id": "otepaa",
-  "version": "2026-09-29T15:58:29Z",
+  "version": "2026-09-29T18:55:23Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 5304,
-      "sha256": "df2e8dc77c0fcd9bf608b0a0e1bfdceb1d613d03254f841c5a7a373605990204"
+      "sha256": "65367ef42d17289645a3d1337a981f1b1ef59fd1de33284d99d4ad60323e153d"
     },
     {
       "path": "hole01.canopy",
@@ -64,8 +64,8 @@
     },
     {
       "path": "hole03.json",
-      "bytes": 60075,
-      "sha256": "73c99c0d0e452c439d24a9191bb2d4eba81cb91d91d94c1708a3c04e70d3b169"
+      "bytes": 60078,
+      "sha256": "e78181489f166f83f3d8f08fde848f7992aa73682b43eb7ab16c5ef7d25a09a0"
     },
     {
       "path": "hole04.canopy",
