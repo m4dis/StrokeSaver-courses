@@ -7,6 +7,9 @@
   "country": "EE",
   "par": 72,
   "holesTotal": 18,
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard",
   "holes": [
     {
       "number": 1,
@@ -284,7 +287,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-29T09:26:47Z",
+  "builtAt": "2026-09-29T14:31:52Z",
   "scorecardTees": [
     {
       "id": "63",
@@ -307,8 +310,5 @@
       "label": "punane"
     }
   ],
-  "scorecardSource": "https://www.wbg.ee/golfarile/ (per-hole course-layout images Rada_1..Rada_18, official club site, retrieved 2026-09-29); cross-checked against https://www.mscorecard.com/mscorecard/showcourse.php?cid=1146937667630 and https://www.hole19golf.com/courses/white-beach-golf (par/length/SI match exactly; total yardage 6280 also matches https://www.top100golfcourses.com/golf-course/white-beach and https://www.golfpass.com/travel-advisor/courses/24850-valgeranna-golf-white-beach-golf-club)",
-  "tier": "full",
-  "scorecardVerified": true,
-  "parSource": "scorecard"
+  "scorecardSource": "https://www.wbg.ee/golfarile/ (per-hole course-layout images Rada_1..Rada_18, official club site, retrieved 2026-09-29); cross-checked against https://www.mscorecard.com/mscorecard/showcourse.php?cid=1146937667630 and https://www.hole19golf.com/courses/white-beach-golf (par/length/SI match exactly; total yardage 6280 also matches https://www.top100golfcourses.com/golf-course/white-beach and https://www.golfpass.com/travel-advisor/courses/24850-valgeranna-golf-white-beach-golf-club)"
 }

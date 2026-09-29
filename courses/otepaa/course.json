@@ -7,6 +7,9 @@
   "country": "EE",
   "par": 73,
   "holesTotal": 18,
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard",
   "holes": [
     {
       "number": 1,
@@ -266,7 +269,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-29T09:23:56Z",
+  "builtAt": "2026-09-29T14:27:23Z",
   "scorecardTees": [
     {
       "id": "white",
@@ -285,8 +288,5 @@
       "label": "punane"
     }
   ],
-  "scorecardSource": "https://otepaagolf.com/wp-content/uploads/2022/04/Scorecard_veeb.pdf",
-  "tier": "full",
-  "scorecardVerified": true,
-  "parSource": "scorecard"
+  "scorecardSource": "https://otepaagolf.com/wp-content/uploads/2022/04/Scorecard_veeb.pdf"
 }

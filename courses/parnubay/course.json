@@ -7,6 +7,9 @@
   "country": "EE",
   "par": 72,
   "holesTotal": 18,
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard",
   "holes": [
     {
       "number": 1,
@@ -266,7 +269,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-29T09:24:32Z",
+  "builtAt": "2026-09-29T14:27:58Z",
   "scorecardTees": [
     {
       "id": "pike",
@@ -285,8 +288,5 @@
       "label": "kollane"
     }
   ],
-  "scorecardSource": "https://parnubay.com/wp-content/uploads/2023/04/Pbgl_score_2020_2.pdf",
-  "tier": "full",
-  "scorecardVerified": true,
-  "parSource": "scorecard"
+  "scorecardSource": "https://parnubay.com/wp-content/uploads/2023/04/Pbgl_score_2020_2.pdf"
 }

@@ -1,11 +1,11 @@
 {
   "id": "wbg",
-  "version": "2026-09-29T09:26:47Z",
+  "version": "2026-09-29T14:31:52Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 5936,
-      "sha256": "21fc5e8dde86186a7e072ca7c291d51dc88acff8afcf9921eec83fa836521727"
+      "sha256": "f265a698ebac47166f293d9de3a379a51c9c3ec89dc4ee58e0b55fec0f53347e"
     },
     {
       "path": "hole01.elev",
@@ -19,8 +19,8 @@
     },
     {
       "path": "hole01.json",
-      "bytes": 43152,
-      "sha256": "24168a2e4ce22b1bc51bbf0fb00849f0a2528598257ddd9377770af43133def0"
+      "bytes": 54293,
+      "sha256": "e3bd8110e61e6595cb4911f81424ede9a615fe6fd96cd17083042f3823928831"
     },
     {
       "path": "hole02.elev",
@@ -184,8 +184,8 @@
     },
     {
       "path": "hole12.json",
-      "bytes": 36210,
-      "sha256": "38036b94c9bd2e5ec9a385a76307467195d39c3cfd92d06eef8fbfb5e773cae8"
+      "bytes": 45048,
+      "sha256": "9cccd9b0f02099a0c5436c11e559d75be5a967d993222030741b212eb22d395f"
     },
     {
       "path": "hole13.elev",
@@ -259,8 +259,8 @@
     },
     {
       "path": "hole17.json",
-      "bytes": 42070,
-      "sha256": "999dc0b0f181c71134e803434c5ddaf4c459b1581d4df8e8a908dcaf9306da6d"
+      "bytes": 54199,
+      "sha256": "9d998fdff09f34280afc77840c84fdb328708f92ed6ea5d174646662175a81e0"
     },
     {
       "path": "hole18.elev",

@@ -1,11 +1,11 @@
 {
   "id": "otepaa",
-  "version": "2026-09-29T09:23:56Z",
+  "version": "2026-09-29T14:27:23Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 5304,
-      "sha256": "2a073fb95461ed3ddf8cd27bf0fa66e566143ce817fbad67be9615f46583d42d"
+      "sha256": "ae03a4d73c505f259a3b857c4a551e826654eeb3b642701e8dbf0f1251681aef"
     },
     {
       "path": "hole01.elev",
@@ -19,8 +19,8 @@
     },
     {
       "path": "hole01.json",
-      "bytes": 45248,
-      "sha256": "d67cd076f3c66573b4a8fb6b2d85c1d69c6bb859770a5611286d87eca4ee08ff"
+      "bytes": 45270,
+      "sha256": "1a950161e79d32bedfd55b7a4eb67411233a796884bf350d729b7d8b2c86cb1a"
     },
     {
       "path": "hole02.elev",
@@ -34,8 +34,8 @@
     },
     {
       "path": "hole02.json",
-      "bytes": 21871,
-      "sha256": "5df03de5351fd3b3cebba946523d6eb3ecd4097dcd7e599ac2181e13594b70e5"
+      "bytes": 21893,
+      "sha256": "12a098a3e8cebbb2d6c13377dd6c01c7d02492b11c200d49cf9ecc3ecd2f99ed"
     },
     {
       "path": "hole03.elev",
@@ -94,8 +94,8 @@
     },
     {
       "path": "hole06.json",
-      "bytes": 66481,
-      "sha256": "6148c45bcb5de76e3abd0bb6804017adcfd113a62c2d66076fd5e9cd83abe06d"
+      "bytes": 73665,
+      "sha256": "dd56881d6aefa4c8bdee8376a39a3c36c8f6e33d5ee8b9c050758a538339c08b"
     },
     {
       "path": "hole07.elev",
@@ -169,8 +169,8 @@
     },
     {
       "path": "hole11.json",
-      "bytes": 95904,
-      "sha256": "b0ad623a9d5cb9aa4039f3cb0e796913a377c207bdaf1977f0c4f60f82993d21"
+      "bytes": 101709,
+      "sha256": "35b193748d1793ce4115489c331a4249b3a95d76b8128f7be92eee879b6936db"
     },
     {
       "path": "hole12.elev",
@@ -229,8 +229,8 @@
     },
     {
       "path": "hole15.json",
-      "bytes": 41746,
-      "sha256": "b832f153fb3dac2bb30178fb98ed3c59e733d4751735cc2a83464b6d8495a99e"
+      "bytes": 48466,
+      "sha256": "724a480462fe034c70e3f9de9ac04e9d74110bbd258788a1636badf51bcbcfa8"
     },
     {
       "path": "hole16.elev",

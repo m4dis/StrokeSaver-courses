@@ -1,11 +1,11 @@
 {
   "id": "pivarootsi",
-  "version": "2026-09-29T13:28:33Z",
+  "version": "2026-09-29T14:33:17Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 1536,
-      "sha256": "87b5d7c2c2924519ae1a6de60ce585054289025b642f68a088e2e38fc8f42c40"
+      "sha256": "aa9b47f977d6fc7133c6f2a7d12a0250e1ad2a0d434fca99aa17bf85eccef9c4"
     },
     {
       "path": "hole01.elev",

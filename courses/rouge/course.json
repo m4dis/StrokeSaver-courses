@@ -7,6 +7,9 @@
   "country": "EE",
   "par": 33,
   "holesTotal": 9,
+  "tier": "nine",
+  "scorecardVerified": true,
+  "parSource": "scorecard",
   "holes": [
     {
       "number": 1,
@@ -122,7 +125,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-29T09:30:02Z",
+  "builtAt": "2026-09-29T14:32:48Z",
   "scorecardTees": [
     {
       "id": "men",
@@ -133,8 +136,5 @@
       "label": "naised"
     }
   ],
-  "scorecardSource": "https://rougegolf.ee/valjak (course data served by the site; same values on the club course map https://rougegolf.ee/assets/course-map-Bo7j2lEG.jpg \"Rõuge golfiväljak 2022\": 9 holes, PAR 33, 1652 m). No stroke index published; men and women play the same tees.",
-  "tier": "nine",
-  "scorecardVerified": true,
-  "parSource": "scorecard"
+  "scorecardSource": "https://rougegolf.ee/valjak (course data served by the site; same values on the club course map https://rougegolf.ee/assets/course-map-Bo7j2lEG.jpg \"Rõuge golfiväljak 2022\": 9 holes, PAR 33, 1652 m). No stroke index published; men and women play the same tees."
 }

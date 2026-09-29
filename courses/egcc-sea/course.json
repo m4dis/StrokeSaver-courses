@@ -7,6 +7,9 @@
   "country": "EE",
   "par": 72,
   "holesTotal": 18,
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard",
   "holes": [
     {
       "number": 1,
@@ -284,7 +287,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-29T09:23:38Z",
+  "builtAt": "2026-09-29T14:27:00Z",
   "scorecardTees": [
     {
       "id": "65",
@@ -307,8 +310,5 @@
       "label": "punane"
     }
   ],
-  "scorecardSource": "https://egcc.ee/en/sea-course-scorecard/ (2026)",
-  "tier": "full",
-  "scorecardVerified": true,
-  "parSource": "scorecard"
+  "scorecardSource": "https://egcc.ee/en/sea-course-scorecard/ (2026)"
 }

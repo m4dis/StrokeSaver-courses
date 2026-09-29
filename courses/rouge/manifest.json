@@ -1,11 +1,11 @@
 {
   "id": "rouge",
-  "version": "2026-09-29T09:30:02Z",
+  "version": "2026-09-29T14:32:48Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 2832,
-      "sha256": "cbe7470358a2680a8720588d809262b227ab4ed114cfb4e14f105c6b9b0cc026"
+      "sha256": "bf13376c2ec15cfbcba8e5f236a8b8779390f79be4128836dae00ac54d1cda10"
     },
     {
       "path": "hole01.elev",
