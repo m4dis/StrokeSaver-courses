@@ -1,11 +1,11 @@
 {
   "id": "pivarootsi",
-  "version": "2026-09-30T20:16:12Z",
+  "version": "2026-09-30T20:24:54Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 1536,
-      "sha256": "06c0a6256ba3e947b09f39311ea671e8bb05a4e48269ca1b2a808d5d4997338f"
+      "sha256": "a829bde5609a1859ce907a76aef1cd9ccbd128b89f2553d7f3a0d6bbbeb55d02"
     },
     {
       "path": "hole01.canopy",
@@ -64,8 +64,8 @@
     },
     {
       "path": "hole03.json",
-      "bytes": 52522,
-      "sha256": "bc418e96955cfbb028346939c7428fd380174632a0a6b6a25d3940efc6c2cbd8"
+      "bytes": 51755,
+      "sha256": "ee08c17607f9e9534d4d12398ffe8240579b656747cd6cbede86d41f46b43a94"
     },
     {
       "path": "hole04.canopy",
@@ -124,8 +124,8 @@
     },
     {
       "path": "hole06.json",
-      "bytes": 50687,
-      "sha256": "5e9fead513efda18ef6d4d667ef52e905e2f18aa970f3e7c4492c25a8666cb50"
+      "bytes": 49890,
+      "sha256": "b21faf3ffe541ca1935e6ca93cf8f4b4c4e1e574a1c339da0a57f5aecd799579"
     },
     {
       "path": "hole07.canopy",
@@ -144,8 +144,8 @@
     },
     {
       "path": "hole07.json",
-      "bytes": 43973,
-      "sha256": "faabcaf9be0efd5ebb2d58ed6174f90ff61620dc8bb60cfeb47aa931e70d918c"
+      "bytes": 43149,
+      "sha256": "f7d97e143b05d5dcf3c10892b185de4d83d035d17152162ca6bd7c63e5797a5a"
     },
     {
       "path": "hole08.canopy",
@@ -164,8 +164,8 @@
     },
     {
       "path": "hole08.json",
-      "bytes": 49124,
-      "sha256": "10c58a68c369e19efe7bcb5b509a001c6f57bbe1cf4057518ba3c9091b35878c"
+      "bytes": 48866,
+      "sha256": "23b250996f909d31958711ea9a471b4f6f80b2b9f5a0b64c5c0d577f9c760380"
     },
     {
       "path": "hole09.canopy",
