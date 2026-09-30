@@ -1,0 +1,52 @@
+{
+  "course": "otepaa",
+  "date": "2026-09-30",
+  "source": "test",
+  "competition": false,
+  "validUntil": "2026-09-30T23:59:59+03:00",
+  "confirmedAt": "2026-09-30T12:33:58Z",
+  "confirmedBy": "test",
+  "publishedAt": "2026-09-30T14:04:34Z",
+  "holes": [
+    {
+      "hole": 1,
+      "x": 6.59,
+      "y": 479.16,
+      "lat": 58.053404,
+      "lon": 26.408793,
+      "sector": "middle"
+    },
+    {
+      "hole": 2,
+      "x": 2.81,
+      "y": 260.53,
+      "lat": 58.054367,
+      "lon": 26.412311,
+      "sector": "middle"
+    },
+    {
+      "hole": 3,
+      "x": 8.94,
+      "y": 256.17,
+      "lat": 58.05793,
+      "lon": 26.415863,
+      "sector": "back"
+    },
+    {
+      "hole": 4,
+      "x": 0.37,
+      "y": 140.75,
+      "lat": 58.056806,
+      "lon": 26.417728,
+      "sector": "back"
+    },
+    {
+      "hole": 5,
+      "x": 8.37,
+      "y": 302.36,
+      "lat": 58.055813,
+      "lon": 26.422851,
+      "sector": "middle"
+    }
+  ]
+}
