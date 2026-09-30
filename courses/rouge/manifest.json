@@ -1,11 +1,11 @@
 {
   "id": "rouge",
-  "version": "2026-09-30T20:24:54Z",
+  "version": "2026-09-30T20:29:33Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 2833,
-      "sha256": "971b2c5c87e09f7ab4813b17a4ef61a239fb55a21c643c3711865b178246ed56"
+      "sha256": "f770fe0754d03eb959f6ef03dafae5d996a9c53908e7e12a8df3c61d0fa57143"
     },
     {
       "path": "hole01.canopy",
@@ -50,7 +50,7 @@
     {
       "path": "hole03.canopy",
       "bytes": 6674,
-      "sha256": "fa308ee2b62eae2f1f4d6a1b0771368f462f2174c3ba2657c1f5bde36f5688a0"
+      "sha256": "e65d36a65f845bd50c4975f1feddc0324f1ce63478e59aa50d706a6058f6bc94"
     },
     {
       "path": "hole03.elev",
@@ -64,8 +64,8 @@
     },
     {
       "path": "hole03.json",
-      "bytes": 4492,
-      "sha256": "b72ec872e95f2a5221e55d3c3cdb05cfb7356df2f29a2d0a2819a5b5dcaa3656"
+      "bytes": 8836,
+      "sha256": "5558c074478ef4a57143306cdab7bbe73ccc895c3efa611b36527127d64a0640"
     },
     {
       "path": "hole04.canopy",

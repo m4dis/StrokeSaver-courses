@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "generatedAt": "2026-09-30T20:26:41Z",
+  "generatedAt": "2026-09-30T20:30:29Z",
   "courses": [
     {
       "id": "egcc-sea",
@@ -123,8 +123,8 @@
       "holesTotal": 9,
       "tier": "nine",
       "par": 33,
-      "version": "2026-09-30T20:24:54Z",
-      "bytes": 2137070,
+      "version": "2026-09-30T20:29:33Z",
+      "bytes": 2141414,
       "manifest": "courses/rouge/manifest.json",
       "thumb": "courses/rouge/thumb.jpg",
       "holesMapped": 9,
