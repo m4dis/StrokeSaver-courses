@@ -26,7 +26,7 @@
     {
       "number": 2,
       "par": 4,
-      "lengthM": 215,
+      "lengthM": 214,
       "file": "hole02",
       "handicap": null,
       "name": "Asfaldi rada",
@@ -38,7 +38,7 @@
     {
       "number": 3,
       "par": 3,
-      "lengthM": 95,
+      "lengthM": 102,
       "file": "hole03",
       "handicap": null,
       "name": "Soolika rada",
@@ -62,7 +62,7 @@
     {
       "number": 5,
       "par": 5,
-      "lengthM": 315,
+      "lengthM": 318,
       "file": "hole05",
       "handicap": null,
       "name": "Maraton rada",
@@ -98,7 +98,7 @@
     {
       "number": 8,
       "par": 3,
-      "lengthM": 80,
+      "lengthM": 82,
       "file": "hole08",
       "handicap": null,
       "name": "Pingi rada",
@@ -110,7 +110,7 @@
     {
       "number": 9,
       "par": 3,
-      "lengthM": 148,
+      "lengthM": 151,
       "file": "hole09",
       "handicap": null,
       "name": "Raffi rada",
@@ -125,7 +125,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-29T14:32:48Z",
+  "builtAt": "2026-09-30T08:06:27Z",
   "scorecardTees": [
     {
       "id": "men",
