@@ -1,16 +1,16 @@
 {
   "id": "rouge",
-  "version": "2026-09-30T08:06:27Z",
+  "version": "2026-09-30T20:16:11Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 2833,
-      "sha256": "89f9e651063d4ff1dbb5e2650161f19601d475bc6ce8a3fde3d4e51130cbd284"
+      "sha256": "e1828c29c29afa4887c39b260e2b081914142c27743f94f237a19fafef69f87b"
     },
     {
       "path": "hole01.canopy",
       "bytes": 8946,
-      "sha256": "2de2f9367b1a01683a743613084053a5e2ac9d88549230c2ad8710669c8b707b"
+      "sha256": "d56cb3b01c698b307020c5302aac4facd71be9fb8eb27078dd80ba9b83f6bd1f"
     },
     {
       "path": "hole01.elev",
@@ -24,13 +24,13 @@
     },
     {
       "path": "hole01.json",
-      "bytes": 17465,
-      "sha256": "8bd3b555e41a3e190ba7dc118a0e82aebf519ac363f1e47a6907302795e7a898"
+      "bytes": 23490,
+      "sha256": "424df99505b81258ffd8f65a6fa0da9bb3ee993f72b8db4f9e7a6b874e75cade"
     },
     {
       "path": "hole02.canopy",
       "bytes": 13509,
-      "sha256": "07fb020fa6242cd13ce9fe8a7eccd275cf8f737ace121d1e8037ea231b06d234"
+      "sha256": "6cf5c86c23f973ca85b8c9a53784dc3ec5d40a66aa386d0e22049d8e5ddae953"
     },
     {
       "path": "hole02.elev",
@@ -44,13 +44,13 @@
     },
     {
       "path": "hole02.json",
-      "bytes": 10244,
-      "sha256": "1b8ec370cdc428e225aedb4aad0289a1f50a8ba622c3984ee6069b7e6df22b01"
+      "bytes": 16407,
+      "sha256": "c521e734e00a93028b25199835688dc0b60fbd2a44e33562590744a7c6ee974d"
     },
     {
       "path": "hole03.canopy",
       "bytes": 6674,
-      "sha256": "967ed29aa538985f412a8e6bffd737d5a2b8f88041ffe6cd55582cff2178d388"
+      "sha256": "fa308ee2b62eae2f1f4d6a1b0771368f462f2174c3ba2657c1f5bde36f5688a0"
     },
     {
       "path": "hole03.elev",
@@ -64,8 +64,8 @@
     },
     {
       "path": "hole03.json",
-      "bytes": 9109,
-      "sha256": "e983972047d57cbc60e8d14339fb6c20effd801f800bca382abdd006d36a6535"
+      "bytes": 4492,
+      "sha256": "b72ec872e95f2a5221e55d3c3cdb05cfb7356df2f29a2d0a2819a5b5dcaa3656"
     },
     {
       "path": "hole04.canopy",
@@ -90,7 +90,7 @@
     {
       "path": "hole05.canopy",
       "bytes": 26751,
-      "sha256": "3748e4bebaf8c462be3f3a23403457e3984a5020dc88081b72d46e33c12b9c86"
+      "sha256": "8fb9e3d7ce3411766edcf2f03c12d1b36d9a67e915cd36bfbb192b8ce443eef2"
     },
     {
       "path": "hole05.elev",
@@ -104,13 +104,13 @@
     },
     {
       "path": "hole05.json",
-      "bytes": 4767,
-      "sha256": "131437efc53f9e4d2822c5c4e936a8baf0ab3dac9f707df67b59b6a808cb5ff0"
+      "bytes": 11949,
+      "sha256": "59c058fee7914d4b936d5a14cfcafdec8fdb6a5b5524148721455dfdb11d0415"
     },
     {
       "path": "hole06.canopy",
       "bytes": 12388,
-      "sha256": "127779bb87f07faca5c9697cb0805c44501ee6a39555cc4cbb2042bcadde6a61"
+      "sha256": "6baa71270d67b52c6a8136963848850c9608398a270362f6cef5b0ec962d4e4a"
     },
     {
       "path": "hole06.elev",
@@ -124,13 +124,13 @@
     },
     {
       "path": "hole06.json",
-      "bytes": 17479,
-      "sha256": "34cbddff88efc6fdb5a9760c321f826b127b909fe1fa1661f65022964e80ea0e"
+      "bytes": 24660,
+      "sha256": "7b4e67cf7a9aea8a4908ae2dcc0b5797ac356c194ddd4e5a9a46a8c14da27e38"
     },
     {
       "path": "hole07.canopy",
       "bytes": 6958,
-      "sha256": "61b2c4ed2ef9c4e34c799fde3a831427aeeb8bf33b325fe1163d80b3a5b0109c"
+      "sha256": "d7f805178aeafa32a8ae7c018b0fab95e0b50a0085a85fd24a1c18f687594792"
     },
     {
       "path": "hole07.elev",
@@ -144,8 +144,8 @@
     },
     {
       "path": "hole07.json",
-      "bytes": 10897,
-      "sha256": "5cb0b3a2ba1ab687482da2e384f107254b9f92714a1a3ad3029b334d076b9634"
+      "bytes": 15748,
+      "sha256": "f20b599e40389be6ac8ae7087996fb7ed4d2e3147e84e196ce8f883259231713"
     },
     {
       "path": "hole08.canopy",
@@ -170,7 +170,7 @@
     {
       "path": "hole09.canopy",
       "bytes": 8591,
-      "sha256": "15d0d0d82fec9ce15f72acb932c7a44967f9d50cf8967b58959823e5af3fb221"
+      "sha256": "b9d9cd417484083b12727f664a44d30a2a39b1435acfa32be7dcba1a9def91b8"
     },
     {
       "path": "hole09.elev",
@@ -184,8 +184,8 @@
     },
     {
       "path": "hole09.json",
-      "bytes": 10906,
-      "sha256": "a3a64aa01138cb7996437a1831256babe31a9971f20b80debb347806892639eb"
+      "bytes": 9404,
+      "sha256": "8b1bbb10439db4519e43791adb4e90b6080037d098eb13c386952466477c01ae"
     }
   ]
 }
