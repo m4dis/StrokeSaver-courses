@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "generatedAt": "2026-09-30T20:30:29Z",
+  "generatedAt": "2026-09-30T20:32:24Z",
   "courses": [
     {
       "id": "egcc-sea",
@@ -189,8 +189,8 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-09-30T20:24:54Z",
-      "bytes": 10526565,
+      "version": "2026-09-30T20:31:10Z",
+      "bytes": 10525260,
       "manifest": "courses/wbg/manifest.json",
       "thumb": "courses/wbg/thumb.jpg",
       "holesMapped": 18,

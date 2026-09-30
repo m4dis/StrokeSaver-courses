@@ -1,11 +1,11 @@
 {
   "id": "wbg",
-  "version": "2026-09-30T20:24:54Z",
+  "version": "2026-09-30T20:31:10Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 5936,
-      "sha256": "51a12c028e5556fc09f05a2441f65302cb5f18eb758c417b0dcc54a3f1de4163"
+      "sha256": "38c39a2d450a2d21de2befaf03e6b7be51bafdbe2239e8bad3d5e230b05af50a"
     },
     {
       "path": "hole01.canopy",
@@ -24,8 +24,8 @@
     },
     {
       "path": "hole01.json",
-      "bytes": 54391,
-      "sha256": "004c251947089440b74e0eb8d53a46df8c9d028b27dfaa09eee216644a68d7ef"
+      "bytes": 53086,
+      "sha256": "eec1ee9e6dd52a02a8a7ac4653de7e5f5e78dae1a8e881220192294600ca01d4"
     },
     {
       "path": "hole02.canopy",
