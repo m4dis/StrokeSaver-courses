@@ -1,11 +1,11 @@
 {
   "id": "wbg",
-  "version": "2026-10-01T04:30:09Z",
+  "version": "2026-10-01T04:34:49Z",
   "files": [
     {
       "path": "course.json",
-      "bytes": 6678,
-      "sha256": "9643d5d8dbfdcd3faedfa2440b7b6997dc9ea5b4e6f0b912d839b04ae6a1d9e6"
+      "bytes": 6789,
+      "sha256": "c86fecf68af10f07b38924f95343e220227909a730ff1ec6c9c66546bbad55b2"
     },
     {
       "path": "hole01.canopy",

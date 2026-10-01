@@ -266,55 +266,59 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-01T04:30:09Z",
+  "builtAt": "2026-10-01T04:34:49Z",
   "scorecardTees": [
     {
       "id": "white",
       "label": "valge",
-      "courseRating": 74.3,
-      "slopeRating": 138
+      "ratings": {
+        "men": {
+          "courseRating": 74.3,
+          "slopeRating": 138
+        }
+      }
     },
     {
       "id": "yellow",
       "label": "kollane",
-      "gender": "men",
-      "courseRating": 71.7,
-      "slopeRating": 131
-    },
-    {
-      "id": "yellow",
-      "label": "kollane",
-      "gender": "women",
-      "courseRating": 78.3,
-      "slopeRating": 151
-    },
-    {
-      "id": "blue",
-      "label": "sinine",
-      "gender": "men",
-      "courseRating": 70.5,
-      "slopeRating": 129
+      "ratings": {
+        "men": {
+          "courseRating": 71.7,
+          "slopeRating": 131
+        },
+        "women": {
+          "courseRating": 78.3,
+          "slopeRating": 151
+        }
+      }
     },
     {
       "id": "blue",
       "label": "sinine",
-      "gender": "women",
-      "courseRating": 76.7,
-      "slopeRating": 142
+      "ratings": {
+        "men": {
+          "courseRating": 70.5,
+          "slopeRating": 129
+        },
+        "women": {
+          "courseRating": 76.7,
+          "slopeRating": 142
+        }
+      }
     },
     {
       "id": "red",
       "label": "punane",
-      "gender": "men",
-      "courseRating": 67.6,
-      "slopeRating": 124
-    },
-    {
-      "id": "red",
-      "label": "punane",
-      "gender": "women",
-      "courseRating": 73.4,
-      "slopeRating": 128
+      "ratings": {
+        "men": {
+          "courseRating": 67.6,
+          "slopeRating": 124
+        },
+        "women": {
+          "courseRating": 73.4,
+          "slopeRating": 128
+        }
+      }
     }
   ],
   "scorecardSource": "https://saaregolf.ee/wp-content/uploads/2025/12/SGGC_score_card2024_210x1483.pdf",

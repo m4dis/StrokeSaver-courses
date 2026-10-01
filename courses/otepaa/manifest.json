@@ -1,11 +1,11 @@
 {
   "id": "otepaa",
-  "version": "2026-10-01T04:30:09Z",
+  "version": "2026-10-01T04:34:49Z",
   "files": [
     {
       "path": "course.json",
-      "bytes": 5999,
-      "sha256": "12df1f6c870da5aef9a8222d6ef03869e4329d3c8519687f39cc8c162afae8c3"
+      "bytes": 6041,
+      "sha256": "75a9f56807a0cbd030410adc561cb3ec5e58a7b19f02ef1df0a572f6af64bd5f"
     },
     {
       "path": "hole01.canopy",

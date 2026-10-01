@@ -269,55 +269,59 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-01T04:30:09Z",
+  "builtAt": "2026-10-01T04:34:49Z",
   "scorecardTees": [
     {
       "id": "pike",
       "label": "must (tips)",
-      "courseRating": 73.4,
-      "slopeRating": 141
+      "ratings": {
+        "men": {
+          "courseRating": 73.4,
+          "slopeRating": 141
+        }
+      }
     },
     {
       "id": "bream",
       "label": "punane",
-      "gender": "men",
-      "courseRating": 70.2,
-      "slopeRating": 131
-    },
-    {
-      "id": "bream",
-      "label": "punane",
-      "gender": "women",
-      "courseRating": 76.3,
-      "slopeRating": 137
-    },
-    {
-      "id": "perch",
-      "label": "valge",
-      "gender": "men",
-      "courseRating": 69.1,
-      "slopeRating": 130
+      "ratings": {
+        "men": {
+          "courseRating": 70.2,
+          "slopeRating": 131
+        },
+        "women": {
+          "courseRating": 76.3,
+          "slopeRating": 137
+        }
+      }
     },
     {
       "id": "perch",
       "label": "valge",
-      "gender": "women",
-      "courseRating": 74.8,
-      "slopeRating": 133
+      "ratings": {
+        "men": {
+          "courseRating": 69.1,
+          "slopeRating": 130
+        },
+        "women": {
+          "courseRating": 74.8,
+          "slopeRating": 133
+        }
+      }
     },
     {
       "id": "burbot",
       "label": "kollane",
-      "gender": "men",
-      "courseRating": 65.4,
-      "slopeRating": 119
-    },
-    {
-      "id": "burbot",
-      "label": "kollane",
-      "gender": "women",
-      "courseRating": 70.0,
-      "slopeRating": 127
+      "ratings": {
+        "men": {
+          "courseRating": 65.4,
+          "slopeRating": 119
+        },
+        "women": {
+          "courseRating": 70.0,
+          "slopeRating": 127
+        }
+      }
     }
   ],
   "scorecardSource": "https://parnubay.com/wp-content/uploads/2023/04/Pbgl_score_2020_2.pdf"

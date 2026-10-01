@@ -269,55 +269,59 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-01T04:30:09Z",
+  "builtAt": "2026-10-01T04:34:49Z",
   "scorecardTees": [
     {
       "id": "white",
       "label": "valge",
-      "courseRating": 73.7,
-      "slopeRating": 133
+      "ratings": {
+        "men": {
+          "courseRating": 73.7,
+          "slopeRating": 133
+        }
+      }
     },
     {
       "id": "yellow",
       "label": "kollane",
-      "gender": "men",
-      "courseRating": 70.9,
-      "slopeRating": 127
-    },
-    {
-      "id": "yellow",
-      "label": "kollane",
-      "gender": "women",
-      "courseRating": 77.4,
-      "slopeRating": 147
-    },
-    {
-      "id": "blue",
-      "label": "sinine",
-      "gender": "men",
-      "courseRating": 68.5,
-      "slopeRating": 122
+      "ratings": {
+        "men": {
+          "courseRating": 70.9,
+          "slopeRating": 127
+        },
+        "women": {
+          "courseRating": 77.4,
+          "slopeRating": 147
+        }
+      }
     },
     {
       "id": "blue",
       "label": "sinine",
-      "gender": "women",
-      "courseRating": 74.5,
-      "slopeRating": 132
+      "ratings": {
+        "men": {
+          "courseRating": 68.5,
+          "slopeRating": 122
+        },
+        "women": {
+          "courseRating": 74.5,
+          "slopeRating": 132
+        }
+      }
     },
     {
       "id": "red",
       "label": "punane",
-      "gender": "men",
-      "courseRating": 66.9,
-      "slopeRating": 114
-    },
-    {
-      "id": "red",
-      "label": "punane",
-      "gender": "women",
-      "courseRating": 72.1,
-      "slopeRating": 128
+      "ratings": {
+        "men": {
+          "courseRating": 66.9,
+          "slopeRating": 114
+        },
+        "women": {
+          "courseRating": 72.1,
+          "slopeRating": 128
+        }
+      }
     }
   ],
   "scorecardSource": "https://raegolf.ee/static/Rae_Scorecard-2024_151x2723mm.pdf (Rae Golf scorecard 2024; image-only PDF, read visually). Note: printed yellow OUT total 2865 but the front-nine yellow holes sum to 2855."
