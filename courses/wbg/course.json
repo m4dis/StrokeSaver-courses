@@ -287,27 +287,61 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-30T20:31:10Z",
+  "builtAt": "2026-10-01T04:30:09Z",
   "scorecardTees": [
     {
       "id": "63",
-      "label": "roheline"
+      "label": "roheline",
+      "courseRating": 72.9,
+      "slopeRating": 131
     },
     {
       "id": "60",
-      "label": "valge"
+      "label": "valge",
+      "courseRating": 71.5,
+      "slopeRating": 129
     },
     {
       "id": "56",
-      "label": "kollane"
+      "label": "kollane",
+      "gender": "men",
+      "courseRating": 69.0,
+      "slopeRating": 121
+    },
+    {
+      "id": "56",
+      "label": "kollane",
+      "gender": "women",
+      "courseRating": 75.3,
+      "slopeRating": 135
     },
     {
       "id": "52",
-      "label": "sinine"
+      "label": "sinine",
+      "gender": "men",
+      "courseRating": 67.5,
+      "slopeRating": 111
+    },
+    {
+      "id": "52",
+      "label": "sinine",
+      "gender": "women",
+      "courseRating": 73.1,
+      "slopeRating": 132
     },
     {
       "id": "49",
-      "label": "punane"
+      "label": "punane",
+      "gender": "men",
+      "courseRating": 65.9,
+      "slopeRating": 109
+    },
+    {
+      "id": "49",
+      "label": "punane",
+      "gender": "women",
+      "courseRating": 71.0,
+      "slopeRating": 129
     }
   ],
   "scorecardSource": "https://www.wbg.ee/golfarile/ (per-hole course-layout images Rada_1..Rada_18, official club site, retrieved 2026-09-29); cross-checked against https://www.mscorecard.com/mscorecard/showcourse.php?cid=1146937667630 and https://www.hole19golf.com/courses/white-beach-golf (par/length/SI match exactly; total yardage 6280 also matches https://www.top100golfcourses.com/golf-course/white-beach and https://www.golfpass.com/travel-advisor/courses/24850-valgeranna-golf-white-beach-golf-club)"

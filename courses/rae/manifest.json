@@ -1,11 +1,11 @@
 {
   "id": "rae",
-  "version": "2026-09-30T20:24:54Z",
+  "version": "2026-10-01T04:30:09Z",
   "files": [
     {
       "path": "course.json",
-      "bytes": 5416,
-      "sha256": "5a881bc24213228c4422a311b6584db830070f97324328451fcf72e52930ff94"
+      "bytes": 6111,
+      "sha256": "50c5ed5b7d0d0959f9e508856b9f5b1b336b9738d27c86497759bee3bd30aaf8"
     },
     {
       "path": "hole01.canopy",

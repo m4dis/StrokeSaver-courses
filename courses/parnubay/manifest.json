@@ -1,11 +1,11 @@
 {
   "id": "parnubay",
-  "version": "2026-09-30T20:24:54Z",
+  "version": "2026-10-01T04:30:09Z",
   "files": [
     {
       "path": "course.json",
-      "bytes": 5396,
-      "sha256": "f98bb9dfb227f604202865461ddaf63eb9167772195d5cfc737c0d50868bf8b1"
+      "bytes": 6093,
+      "sha256": "25024f7fbeb0d9a057bcfd22a74bfe2924deb2d95252858003c429dcfc05f93e"
     },
     {
       "path": "hole01.canopy",

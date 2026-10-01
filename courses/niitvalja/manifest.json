@@ -1,11 +1,11 @@
 {
   "id": "niitvalja",
-  "version": "2026-09-29T09:27:01Z",
+  "version": "2026-10-01T04:30:09Z",
   "files": [
     {
       "path": "course.json",
-      "bytes": 5511,
-      "sha256": "1c65e5c4391d28002c6cab388cc9426aeb7f8ebb3cb6ccdc9c5ac456a760531f"
+      "bytes": 6212,
+      "sha256": "13ab4eb5b9b5510ce6e9b878d12927ff5a5a57e623a88dee4eb85e158fe80f41"
     },
     {
       "path": "hole01.canopy",

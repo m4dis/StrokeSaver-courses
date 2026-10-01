@@ -287,27 +287,61 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-29T14:27:00Z",
+  "builtAt": "2026-10-01T04:30:09Z",
   "scorecardTees": [
     {
       "id": "65",
-      "label": "must"
+      "label": "must",
+      "courseRating": 76.0,
+      "slopeRating": 151
     },
     {
       "id": "62",
-      "label": "valge"
+      "label": "valge",
+      "courseRating": 74.3,
+      "slopeRating": 147
     },
     {
       "id": "57",
-      "label": "kollane"
+      "label": "kollane",
+      "gender": "men",
+      "courseRating": 71.6,
+      "slopeRating": 137
+    },
+    {
+      "id": "57",
+      "label": "kollane",
+      "gender": "women",
+      "courseRating": 77.5,
+      "slopeRating": 143
     },
     {
       "id": "53",
-      "label": "sinine"
+      "label": "sinine",
+      "gender": "men",
+      "courseRating": 69.5,
+      "slopeRating": 129
+    },
+    {
+      "id": "53",
+      "label": "sinine",
+      "gender": "women",
+      "courseRating": 75.1,
+      "slopeRating": 137
     },
     {
       "id": "51",
-      "label": "punane"
+      "label": "punane",
+      "gender": "men",
+      "courseRating": 68.3,
+      "slopeRating": 126
+    },
+    {
+      "id": "51",
+      "label": "punane",
+      "gender": "women",
+      "courseRating": 74.0,
+      "slopeRating": 131
     }
   ],
   "scorecardSource": "https://egcc.ee/en/sea-course-scorecard/ (2026)"

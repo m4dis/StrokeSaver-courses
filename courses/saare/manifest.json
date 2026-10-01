@@ -1,11 +1,11 @@
 {
   "id": "saare",
-  "version": "2026-09-29T09:26:07Z",
+  "version": "2026-10-01T04:30:09Z",
   "files": [
     {
       "path": "course.json",
-      "bytes": 5355,
-      "sha256": "00af313de42cd00c8ee242e51838d767114c8aea2be385958d7936a81f4c663e"
+      "bytes": 6050,
+      "sha256": "0b2c8bba7f741c5722dbfc6184832d85235bcf32379360653b50e708a19e8fba"
     },
     {
       "path": "hole01.canopy",

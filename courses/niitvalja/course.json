@@ -266,23 +266,55 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-29T09:27:01Z",
+  "builtAt": "2026-10-01T04:30:09Z",
   "scorecardTees": [
     {
       "id": "valge",
-      "label": "valge"
+      "label": "valge",
+      "courseRating": 75.0,
+      "slopeRating": 145
     },
     {
       "id": "kollane",
-      "label": "kollane"
+      "label": "kollane",
+      "gender": "men",
+      "courseRating": 72.0,
+      "slopeRating": 139
+    },
+    {
+      "id": "kollane",
+      "label": "kollane",
+      "gender": "women",
+      "courseRating": 78.2,
+      "slopeRating": 145
     },
     {
       "id": "sinine",
-      "label": "sinine"
+      "label": "sinine",
+      "gender": "men",
+      "courseRating": 70.0,
+      "slopeRating": 136
+    },
+    {
+      "id": "sinine",
+      "label": "sinine",
+      "gender": "women",
+      "courseRating": 75.4,
+      "slopeRating": 137
     },
     {
       "id": "punane",
-      "label": "punane"
+      "label": "punane",
+      "gender": "men",
+      "courseRating": 67.7,
+      "slopeRating": 132
+    },
+    {
+      "id": "punane",
+      "label": "punane",
+      "gender": "women",
+      "courseRating": 73.1,
+      "slopeRating": 132
     }
   ],
   "scorecardSource": "https://niitvaljagolf.ee/wp-content/uploads/2022/12/Niitvalja-Park-väljak-scorecard-veebi-2023.pdf (Park-väljak scorecard 2023; distances to green centre)",

@@ -1,11 +1,11 @@
 {
   "id": "egcc-sea",
-  "version": "2026-09-29T14:27:00Z",
+  "version": "2026-10-01T04:30:09Z",
   "files": [
     {
       "path": "course.json",
-      "bytes": 5636,
-      "sha256": "7d54a14999d08d26eaa76c489f618a293d3b958eda16e2e4e9cedf5f9daaea0c"
+      "bytes": 6378,
+      "sha256": "2b858f8184fee437343a6d18d677a3e943d9607b5ecd0e3268ca459cac2d4ca8"
     },
     {
       "path": "hole01.canopy",
