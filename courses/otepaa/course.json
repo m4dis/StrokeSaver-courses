@@ -28,7 +28,7 @@
     {
       "number": 2,
       "par": 4,
-      "lengthM": 315,
+      "lengthM": 306,
       "file": "hole02",
       "handicap": 10,
       "name": null,
@@ -42,7 +42,7 @@
     {
       "number": 3,
       "par": 4,
-      "lengthM": 256,
+      "lengthM": 248,
       "file": "hole03",
       "handicap": 18,
       "name": null,
@@ -210,7 +210,7 @@
     {
       "number": 15,
       "par": 3,
-      "lengthM": 158,
+      "lengthM": 151,
       "file": "hole15",
       "handicap": 11,
       "name": null,
@@ -269,7 +269,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-01T04:34:49Z",
+  "builtAt": "2026-10-06T14:20:49Z",
   "scorecardTees": [
     {
       "id": "white",

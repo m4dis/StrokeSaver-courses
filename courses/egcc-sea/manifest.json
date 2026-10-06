@@ -1,11 +1,11 @@
 {
   "id": "egcc-sea",
-  "version": "2026-10-01T04:34:49Z",
+  "version": "2026-10-06T14:23:18Z",
   "files": [
     {
       "path": "course.json",
-      "bytes": 6489,
-      "sha256": "13c480f803f514187b4e560e3b08cf3a6299453072830895138b6d2d8a1e2251"
+      "bytes": 6920,
+      "sha256": "2396fa5e0c90b408eb29f95bd5541e0b617d6a2a22aaf0abd67530f8e14d0794"
     },
     {
       "path": "hole01.canopy",
@@ -366,6 +366,16 @@
       "path": "hole18.json",
       "bytes": 33991,
       "sha256": "27d2ed3e484246f48f01b80a84540b4f7553c13db45a05c2609f7bfafe76cc7c"
+    },
+    {
+      "path": "overview.elev",
+      "bytes": 1432368,
+      "sha256": "3fbcec821a0a26ed6cd9aa1b7b1ebbbc905d81592c8e7d6ed7b14eb20a115e5e"
+    },
+    {
+      "path": "overview.jpg",
+      "bytes": 3608932,
+      "sha256": "55fb58813adeda5a7218644c64b28a98f175719847d9595ed6e151618bb6f904"
     }
   ]
 }

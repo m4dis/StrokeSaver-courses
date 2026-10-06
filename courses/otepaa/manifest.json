@@ -1,11 +1,11 @@
 {
   "id": "otepaa",
-  "version": "2026-10-01T04:34:49Z",
+  "version": "2026-10-06T14:20:49Z",
   "files": [
     {
       "path": "course.json",
       "bytes": 6041,
-      "sha256": "75a9f56807a0cbd030410adc561cb3ec5e58a7b19f02ef1df0a572f6af64bd5f"
+      "sha256": "9f20f9bc2d71581698e344c03d77a654e91dfb31de61941a4a6d94cf477d146b"
     },
     {
       "path": "hole01.canopy",
@@ -29,43 +29,43 @@
     },
     {
       "path": "hole02.canopy",
-      "bytes": 31257,
-      "sha256": "942871a4fa66577cdbc9c1085bb1231efcdb7d2679c9181026e4aa5cbf32c175"
+      "bytes": 31861,
+      "sha256": "f63e7692fb925f47049af727f54e876e0912f674e90c613b2efca2b0eab2376b"
     },
     {
       "path": "hole02.elev",
-      "bytes": 62514,
-      "sha256": "c26aa7b0dc6ffe390f48be2fce167c23a4ac9aed8677b708c48a3aa4ce80eb44"
+      "bytes": 63722,
+      "sha256": "1594ef1480c8a5605b877e01beb53a4e27732b1dc20112959de87fecf6848e34"
     },
     {
       "path": "hole02.jpg",
-      "bytes": 533878,
-      "sha256": "759619a4043065666c97ccf3f1f4a0642d817cbf20b201ae853fac7d94765d05"
+      "bytes": 543639,
+      "sha256": "801d34a20b3f8eb1fdf5e6011d4df7a06fe304fdd22c813cbdcbadbcf593fdba"
     },
     {
       "path": "hole02.json",
-      "bytes": 21991,
-      "sha256": "245fd2fb69d31cac5d3beb1d2f76e4c97ba2fdc10377b3ba4b607d09da475fd1"
+      "bytes": 191092,
+      "sha256": "185b80985312421d50672313ac8e6dd70c8287d8bf0ca3bcc5d2285403a2208a"
     },
     {
       "path": "hole03.canopy",
-      "bytes": 18988,
-      "sha256": "235e50392acb494f764d1f9a1e0ee2b1f9a5310cd252e737a718596fc33e48c2"
+      "bytes": 18693,
+      "sha256": "dab28c0276d8d871f2e215dd6660de6d0c49531c303bd0df6403cd61015ab044"
     },
     {
       "path": "hole03.elev",
-      "bytes": 37976,
-      "sha256": "b0c26b04ec7599160ad1e8ad16fd137915a1b081e7b088c90456b938c1519174"
+      "bytes": 37386,
+      "sha256": "0a72694abd35396922356aa3ba361d76301365809981552df421317ebee160fc"
     },
     {
       "path": "hole03.jpg",
-      "bytes": 307523,
-      "sha256": "44a0cc2cdb2b6cc9afcf49c5929be1550e057c68d6386a299b40baa30df1e99e"
+      "bytes": 299727,
+      "sha256": "d29c215fe12b86ca87361b1cba5e2546b1950fc99297e16bda2a70273765c033"
     },
     {
       "path": "hole03.json",
-      "bytes": 65199,
-      "sha256": "a75e7feb9e31e06922424a96688ac296f82db24c5335dd840a3fa25452166c82"
+      "bytes": 228171,
+      "sha256": "2dd32ae190c45fb300bcec62af41c96b94a28d415930bbd34d16f171d11de9be"
     },
     {
       "path": "hole04.canopy",
@@ -289,23 +289,23 @@
     },
     {
       "path": "hole15.canopy",
-      "bytes": 9301,
-      "sha256": "8c318b174938f03129298e6374b52b7ceecd035024c0fd12f3b681931641c3d0"
+      "bytes": 9088,
+      "sha256": "b185d8c156e89fd41f66f39622effe035f9e6b03de350f14a3fc600e46ac3732"
     },
     {
       "path": "hole15.elev",
-      "bytes": 18602,
-      "sha256": "4c3c04145a0ac7fe2c7e912de54e477f4c59362c4164859e7eaf8594ac282d45"
+      "bytes": 18176,
+      "sha256": "d4749ad7f0b27b15311ace5bfe0afc24848d68baf13629b5f44af5fecefb9f1e"
     },
     {
       "path": "hole15.jpg",
-      "bytes": 136365,
-      "sha256": "9d6f13dec38f48fa8dcb415de39ec512c6c0a2cdcac6e2d8e79e267f282f6b01"
+      "bytes": 133912,
+      "sha256": "fbcba8d08005df68890c95b7d2419e3e6abbac7977623e0c502e10285e6dfeda"
     },
     {
       "path": "hole15.json",
-      "bytes": 44780,
-      "sha256": "806d334bfc6f680385a66757db3884ed2ce379d019749c3dedf678f8d9407228"
+      "bytes": 75484,
+      "sha256": "6162311fce05296f14f91bec69f79a1881f0dc07f6a15fc26873a8254615cde4"
     },
     {
       "path": "hole16.canopy",

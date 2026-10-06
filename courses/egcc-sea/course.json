@@ -287,7 +287,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-01T04:34:49Z",
+  "builtAt": "2026-10-06T14:23:18Z",
   "scorecardTees": [
     {
       "id": "65",
@@ -352,5 +352,28 @@
       }
     }
   ],
-  "scorecardSource": "https://egcc.ee/en/sea-course-scorecard/ (2026)"
+  "scorecardSource": "https://egcc.ee/en/sea-course-scorecard/ (2026)",
+  "overview": {
+    "origin": {
+      "lat": 59.468952,
+      "lon": 25.140544
+    },
+    "bearingDeg": 0.0,
+    "image": {
+      "file": "overview.jpg",
+      "width": 2779,
+      "height": 4112,
+      "mpp": 0.5,
+      "xMin": -694.8,
+      "yMax": 1028.1
+    },
+    "elevation": {
+      "file": "overview.elev",
+      "cols": 696,
+      "rows": 1029,
+      "spacingM": 2.0,
+      "xMin": -694.8,
+      "yMax": 1028.1
+    }
+  }
 }
