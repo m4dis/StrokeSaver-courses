@@ -269,7 +269,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-06T14:20:49Z",
+  "builtAt": "2026-10-08T11:45:14Z",
   "scorecardTees": [
     {
       "id": "white",
@@ -324,5 +324,28 @@
       }
     }
   ],
-  "scorecardSource": "https://otepaagolf.com/wp-content/uploads/2022/04/Scorecard_veeb.pdf"
+  "scorecardSource": "https://otepaagolf.com/wp-content/uploads/2022/04/Scorecard_veeb.pdf",
+  "overview": {
+    "origin": {
+      "lat": 58.052963,
+      "lon": 26.408533
+    },
+    "bearingDeg": 0.0,
+    "image": {
+      "file": "overview.jpg",
+      "width": 3797,
+      "height": 2886,
+      "mpp": 0.5,
+      "xMin": -949.2,
+      "yMax": 721.6
+    },
+    "elevation": {
+      "file": "overview.elev",
+      "cols": 950,
+      "rows": 723,
+      "spacingM": 2.0,
+      "xMin": -949.2,
+      "yMax": 721.6
+    }
+  }
 }
