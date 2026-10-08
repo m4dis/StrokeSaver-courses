@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "generatedAt": "2026-10-08T11:47:55Z",
+  "generatedAt": "2026-10-08T11:50:42Z",
   "courses": [
     {
       "id": "egcc-sea",
@@ -22,7 +22,8 @@
         "flightDate": "2022-06-11",
         "source": "geoportal"
       },
-      "mappingConfidence": null
+      "mappingConfidence": null,
+      "access": "free"
     },
     {
       "id": "niitvalja",
@@ -44,7 +45,8 @@
         "flightDate": null,
         "source": "wms"
       },
-      "mappingConfidence": "low"
+      "mappingConfidence": "low",
+      "access": "free"
     },
     {
       "id": "otepaa",
@@ -66,7 +68,8 @@
         "flightDate": null,
         "source": "wms"
       },
-      "mappingConfidence": "low"
+      "mappingConfidence": "low",
+      "access": "free"
     },
     {
       "id": "parnubay",
@@ -88,7 +91,8 @@
         "flightDate": "2023-06-09",
         "source": "geoportal"
       },
-      "mappingConfidence": null
+      "mappingConfidence": null,
+      "access": "free"
     },
     {
       "id": "rae",
@@ -110,7 +114,8 @@
         "flightDate": "2022-06-11",
         "source": "geoportal"
       },
-      "mappingConfidence": "low"
+      "mappingConfidence": "low",
+      "access": "free"
     },
     {
       "id": "rouge",
@@ -132,7 +137,8 @@
         "flightDate": "2021-06-17",
         "source": "geoportal"
       },
-      "mappingConfidence": "low"
+      "mappingConfidence": "low",
+      "access": "free"
     },
     {
       "id": "saare",
@@ -154,7 +160,8 @@
         "flightDate": "2019-06-06",
         "source": "geoportal"
       },
-      "mappingConfidence": null
+      "mappingConfidence": null,
+      "access": "free"
     },
     {
       "id": "pivarootsi",
@@ -176,7 +183,8 @@
         "flightDate": "2023-06-09",
         "source": "geoportal"
       },
-      "mappingConfidence": "low"
+      "mappingConfidence": "low",
+      "access": "free"
     },
     {
       "id": "wbg",
@@ -198,7 +206,8 @@
         "flightDate": "2023-06-09",
         "source": "geoportal"
       },
-      "mappingConfidence": null
+      "mappingConfidence": null,
+      "access": "free"
     }
   ]
 }
