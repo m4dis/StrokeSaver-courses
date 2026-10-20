@@ -7,6 +7,9 @@
   "country": "EE",
   "par": 72,
   "holesTotal": 18,
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard",
   "holes": [
     {
       "number": 1,
@@ -266,7 +269,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-01T04:34:49Z",
+  "builtAt": "2026-10-12T05:16:00Z",
   "scorecardTees": [
     {
       "id": "white",
@@ -322,7 +325,27 @@
     }
   ],
   "scorecardSource": "https://saaregolf.ee/wp-content/uploads/2025/12/SGGC_score_card2024_210x1483.pdf",
-  "tier": "full",
-  "scorecardVerified": true,
-  "parSource": "scorecard"
+  "overview": {
+    "origin": {
+      "lat": 58.255624,
+      "lon": 22.465419
+    },
+    "bearingDeg": 0.0,
+    "image": {
+      "file": "overview.jpg",
+      "width": 2395,
+      "height": 3642,
+      "mpp": 0.5,
+      "xMin": -598.8,
+      "yMax": 910.6
+    },
+    "elevation": {
+      "file": "overview.elev",
+      "cols": 600,
+      "rows": 912,
+      "spacingM": 2.0,
+      "xMin": -598.8,
+      "yMax": 910.6
+    }
+  }
 }

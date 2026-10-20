@@ -80,5 +80,28 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-09-30T20:24:54Z"
+  "builtAt": "2026-10-12T04:57:02Z",
+  "overview": {
+    "origin": {
+      "lat": 58.550798,
+      "lon": 23.590477
+    },
+    "bearingDeg": 0.0,
+    "image": {
+      "file": "overview.jpg",
+      "width": 799,
+      "height": 1006,
+      "mpp": 0.5,
+      "xMin": -199.9,
+      "yMax": 251.5
+    },
+    "elevation": {
+      "file": "overview.elev",
+      "cols": 201,
+      "rows": 253,
+      "spacingM": 2.0,
+      "xMin": -199.9,
+      "yMax": 251.5
+    }
+  }
 }

@@ -7,6 +7,9 @@
   "country": "EE",
   "par": 72,
   "holesTotal": 18,
+  "tier": "full",
+  "scorecardVerified": true,
+  "parSource": "scorecard",
   "holes": [
     {
       "number": 1,
@@ -266,7 +269,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-01T04:34:49Z",
+  "builtAt": "2026-10-19T14:21:08Z",
   "scorecardTees": [
     {
       "id": "valge",
@@ -322,7 +325,27 @@
     }
   ],
   "scorecardSource": "https://niitvaljagolf.ee/wp-content/uploads/2022/12/Niitvalja-Park-väljak-scorecard-veebi-2023.pdf (Park-väljak scorecard 2023; distances to green centre)",
-  "tier": "full",
-  "scorecardVerified": true,
-  "parSource": "scorecard"
+  "overview": {
+    "origin": {
+      "lat": 59.321331,
+      "lon": 24.310732
+    },
+    "bearingDeg": 0.0,
+    "image": {
+      "file": "overview.jpg",
+      "width": 2118,
+      "height": 1700,
+      "mpp": 1.0,
+      "xMin": -1059.2,
+      "yMax": 849.8
+    },
+    "elevation": {
+      "file": "overview.elev",
+      "cols": 1060,
+      "rows": 851,
+      "spacingM": 2.0,
+      "xMin": -1059.2,
+      "yMax": 849.8
+    }
+  }
 }

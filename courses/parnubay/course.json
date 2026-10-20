@@ -269,7 +269,7 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-01T04:34:49Z",
+  "builtAt": "2026-10-19T14:40:28Z",
   "scorecardTees": [
     {
       "id": "pike",
@@ -324,5 +324,28 @@
       }
     }
   ],
-  "scorecardSource": "https://parnubay.com/wp-content/uploads/2023/04/Pbgl_score_2020_2.pdf"
+  "scorecardSource": "https://parnubay.com/wp-content/uploads/2023/04/Pbgl_score_2020_2.pdf",
+  "overview": {
+    "origin": {
+      "lat": 58.333579,
+      "lon": 24.582162
+    },
+    "bearingDeg": 0.0,
+    "image": {
+      "file": "overview.jpg",
+      "width": 1309,
+      "height": 2205,
+      "mpp": 1.0,
+      "xMin": -654.7,
+      "yMax": 1102.4
+    },
+    "elevation": {
+      "file": "overview.elev",
+      "cols": 656,
+      "rows": 1103,
+      "spacingM": 2.0,
+      "xMin": -654.7,
+      "yMax": 1102.4
+    }
+  }
 }

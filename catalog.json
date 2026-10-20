@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "generatedAt": "2026-10-08T11:50:42Z",
+  "generatedAt": "2026-10-20T06:14:45Z",
   "courses": [
     {
       "id": "egcc-sea",
@@ -13,8 +13,8 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-06T14:23:18Z",
-      "bytes": 18591393,
+      "version": "2026-10-19T14:24:28Z",
+      "bytes": 18590600,
       "manifest": "courses/egcc-sea/manifest.json",
       "thumb": "courses/egcc-sea/thumb.jpg",
       "holesMapped": 18,
@@ -23,7 +23,8 @@
         "source": "geoportal"
       },
       "mappingConfidence": null,
-      "access": "free"
+      "access": "free",
+      "priceTier": "tier3"
     },
     {
       "id": "niitvalja",
@@ -36,8 +37,8 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-01T04:34:49Z",
-      "bytes": 14301832,
+      "version": "2026-10-19T14:21:08Z",
+      "bytes": 17632524,
       "manifest": "courses/niitvalja/manifest.json",
       "thumb": "courses/niitvalja/thumb.jpg",
       "holesMapped": 18,
@@ -46,7 +47,8 @@
         "source": "wms"
       },
       "mappingConfidence": "low",
-      "access": "free"
+      "access": "free",
+      "priceTier": "tier3"
     },
     {
       "id": "otepaa",
@@ -59,8 +61,8 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 73,
-      "version": "2026-10-08T11:45:14Z",
-      "bytes": 18635717,
+      "version": "2026-10-19T14:39:12Z",
+      "bytes": 18635367,
       "manifest": "courses/otepaa/manifest.json",
       "thumb": "courses/otepaa/thumb.jpg",
       "holesMapped": 18,
@@ -69,7 +71,8 @@
         "source": "wms"
       },
       "mappingConfidence": "low",
-      "access": "free"
+      "access": "free",
+      "priceTier": "tier3"
     },
     {
       "id": "parnubay",
@@ -82,8 +85,8 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-01T04:34:49Z",
-      "bytes": 12055599,
+      "version": "2026-10-19T14:40:28Z",
+      "bytes": 14501642,
       "manifest": "courses/parnubay/manifest.json",
       "thumb": "courses/parnubay/thumb.jpg",
       "holesMapped": 18,
@@ -92,7 +95,8 @@
         "source": "geoportal"
       },
       "mappingConfidence": null,
-      "access": "free"
+      "access": "free",
+      "priceTier": "tier3"
     },
     {
       "id": "rae",
@@ -105,8 +109,8 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-01T04:34:49Z",
-      "bytes": 12699989,
+      "version": "2026-10-12T05:10:13Z",
+      "bytes": 15689709,
       "manifest": "courses/rae/manifest.json",
       "thumb": "courses/rae/thumb.jpg",
       "holesMapped": 18,
@@ -115,7 +119,8 @@
         "source": "geoportal"
       },
       "mappingConfidence": "low",
-      "access": "free"
+      "access": "free",
+      "priceTier": "tier3"
     },
     {
       "id": "rouge",
@@ -128,8 +133,8 @@
       "holesTotal": 9,
       "tier": "nine",
       "par": 33,
-      "version": "2026-09-30T20:29:33Z",
-      "bytes": 2141414,
+      "version": "2026-10-19T14:25:01Z",
+      "bytes": 2587287,
       "manifest": "courses/rouge/manifest.json",
       "thumb": "courses/rouge/thumb.jpg",
       "holesMapped": 9,
@@ -138,7 +143,8 @@
         "source": "geoportal"
       },
       "mappingConfidence": "low",
-      "access": "free"
+      "access": "free",
+      "priceTier": "tier1"
     },
     {
       "id": "saare",
@@ -151,8 +157,8 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-01T04:34:49Z",
-      "bytes": 12638708,
+      "version": "2026-10-12T05:16:00Z",
+      "bytes": 16517228,
       "manifest": "courses/saare/manifest.json",
       "thumb": "courses/saare/thumb.jpg",
       "holesMapped": 18,
@@ -161,7 +167,8 @@
         "source": "geoportal"
       },
       "mappingConfidence": null,
-      "access": "free"
+      "access": "free",
+      "priceTier": "tier3"
     },
     {
       "id": "pivarootsi",
@@ -174,8 +181,8 @@
       "holesTotal": 9,
       "tier": "nine",
       "par": 30,
-      "version": "2026-09-30T20:24:54Z",
-      "bytes": 2781841,
+      "version": "2026-10-12T04:57:02Z",
+      "bytes": 3163755,
       "manifest": "courses/pivarootsi/manifest.json",
       "thumb": "courses/pivarootsi/thumb.jpg",
       "holesMapped": 9,
@@ -184,7 +191,8 @@
         "source": "geoportal"
       },
       "mappingConfidence": "low",
-      "access": "free"
+      "access": "free",
+      "priceTier": "tier1"
     },
     {
       "id": "wbg",
@@ -197,8 +205,8 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-01T04:34:49Z",
-      "bytes": 10526113,
+      "version": "2026-10-12T05:00:41Z",
+      "bytes": 13002162,
       "manifest": "courses/wbg/manifest.json",
       "thumb": "courses/wbg/thumb.jpg",
       "holesMapped": 18,
@@ -207,7 +215,8 @@
         "source": "geoportal"
       },
       "mappingConfidence": null,
-      "access": "free"
+      "access": "free",
+      "priceTier": "tier3"
     }
   ]
 }
