@@ -1,5 +1,7 @@
 # Stroke Saver courses
 
+**Home:** https://github.com/strokesaver/courses — catalog `https://strokesaver.github.io/courses/catalog.json` (since 28.10.2026). The old repository `m4dis/StrokeSaver-courses` is kept as a mirror while older app builds read it.
+
 Static course packages served to the Stroke Saver app.
 
 Data: Ortofoto ja kõrgusmudel © Maa- ja Ruumiamet (avaandmed); rajad © OpenStreetMap contributors (ODbL); skoorikaardid klubidelt.
