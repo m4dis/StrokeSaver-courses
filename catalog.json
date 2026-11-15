@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "generatedAt": "2026-10-20T06:14:45Z",
+  "generatedAt": "2026-11-15T14:53:51Z",
   "courses": [
     {
       "id": "egcc-sea",
@@ -61,14 +61,15 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 73,
-      "version": "2026-10-19T14:39:12Z",
-      "bytes": 18635367,
+      "version": "2026-11-14T06:41:02Z",
+      "bytes": 18242612,
       "manifest": "courses/otepaa/manifest.json",
       "thumb": "courses/otepaa/thumb.jpg",
       "holesMapped": 18,
       "imagery": {
         "flightDate": null,
-        "source": "wms"
+        "source": "wms",
+        "demResolutionM": 1.0
       },
       "mappingConfidence": "low",
       "access": "free",
@@ -85,14 +86,15 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-19T14:40:28Z",
-      "bytes": 14501642,
+      "version": "2026-11-14T06:45:17Z",
+      "bytes": 14501742,
       "manifest": "courses/parnubay/manifest.json",
       "thumb": "courses/parnubay/thumb.jpg",
       "holesMapped": 18,
       "imagery": {
         "flightDate": "2023-06-09",
-        "source": "geoportal"
+        "source": "geoportal",
+        "demResolutionM": 1.0
       },
       "mappingConfidence": null,
       "access": "free",

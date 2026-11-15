@@ -269,11 +269,16 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-19T14:40:28Z",
+  "imagery": {
+    "flightDate": "2023-06-09",
+    "source": "geoportal",
+    "demResolutionM": 1.0
+  },
+  "builtAt": "2026-11-14T06:45:17Z",
   "scorecardTees": [
     {
       "id": "pike",
-      "label": "must (tips)",
+      "label": "valge",
       "ratings": {
         "men": {
           "courseRating": 73.4,
@@ -283,7 +288,7 @@
     },
     {
       "id": "bream",
-      "label": "punane",
+      "label": "kollane",
       "ratings": {
         "men": {
           "courseRating": 70.2,
@@ -297,7 +302,7 @@
     },
     {
       "id": "perch",
-      "label": "valge",
+      "label": "sinine",
       "ratings": {
         "men": {
           "courseRating": 69.1,
@@ -311,7 +316,7 @@
     },
     {
       "id": "burbot",
-      "label": "kollane",
+      "label": "punane",
       "ratings": {
         "men": {
           "courseRating": 65.4,
