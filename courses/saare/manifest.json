@@ -1,11 +1,11 @@
 {
   "id": "saare",
-  "version": "2026-10-12T05:16:00Z",
+  "version": "2026-11-16T07:12:18Z",
   "files": [
     {
       "path": "course.json",
-      "bytes": 6520,
-      "sha256": "f4ac8dcafcb0132bd0ef2cad65fdd2dec837746d750e75d8976a3802f989dd9d"
+      "bytes": 6625,
+      "sha256": "b441cc8a1957557853a569c055bb3d8245ea8e4b507f58e4fc81e6d53ce609a7"
     },
     {
       "path": "hole01.canopy",
@@ -164,8 +164,8 @@
     },
     {
       "path": "hole08.json",
-      "bytes": 55388,
-      "sha256": "43c62d7de8cb6da1e4824be712455678e7f065d7e48111577fb5a7af655fd1dd"
+      "bytes": 55387,
+      "sha256": "149f73aac62468d1cc9b54b25dbe42d3687ef91e735c583f152cb196f682b186"
     },
     {
       "path": "hole09.canopy",
@@ -204,8 +204,8 @@
     },
     {
       "path": "hole10.json",
-      "bytes": 56636,
-      "sha256": "939ce16191a0a0c3d00a68ecf86c9810aac9f4b30f5bdc0353571e7a420b807d"
+      "bytes": 56634,
+      "sha256": "2ee420381d54147319e8335e99a0c7e9854dc602b9d85ee592ea754783447456"
     },
     {
       "path": "hole11.canopy",

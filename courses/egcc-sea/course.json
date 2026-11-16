@@ -89,7 +89,7 @@
     {
       "number": 6,
       "par": 5,
-      "lengthM": 487,
+      "lengthM": 519,
       "file": "hole06",
       "handicap": 9,
       "name": "Kuldikihva",
@@ -149,7 +149,7 @@
     {
       "number": 10,
       "par": 3,
-      "lengthM": 132,
+      "lengthM": 156,
       "file": "hole10",
       "handicap": 18,
       "name": "Ohvrikivi",
@@ -287,7 +287,12 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-19T14:24:28Z",
+  "imagery": {
+    "flightDate": "2022-06-11",
+    "source": "geoportal",
+    "demResolutionM": 1.0
+  },
+  "builtAt": "2026-11-16T07:08:51Z",
   "scorecardTees": [
     {
       "id": "65",

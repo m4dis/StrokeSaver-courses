@@ -14,7 +14,7 @@
     {
       "number": 1,
       "par": 3,
-      "lengthM": 80,
+      "lengthM": 82,
       "file": "hole01",
       "handicap": null
     },
@@ -35,7 +35,7 @@
     {
       "number": 4,
       "par": 3,
-      "lengthM": 189,
+      "lengthM": 168,
       "file": "hole04",
       "handicap": null
     },
@@ -49,14 +49,14 @@
     {
       "number": 6,
       "par": 4,
-      "lengthM": 330,
+      "lengthM": 306,
       "file": "hole06",
       "handicap": null
     },
     {
       "number": 7,
       "par": 4,
-      "lengthM": 315,
+      "lengthM": 306,
       "file": "hole07",
       "handicap": null
     },
@@ -80,7 +80,12 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-12T04:57:02Z",
+  "imagery": {
+    "flightDate": "2023-06-09",
+    "source": "geoportal",
+    "demResolutionM": 1.0
+  },
+  "builtAt": "2026-11-16T07:16:52Z",
   "overview": {
     "origin": {
       "lat": 58.550798,

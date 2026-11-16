@@ -28,7 +28,7 @@
     {
       "number": 2,
       "par": 3,
-      "lengthM": 145,
+      "lengthM": 177,
       "file": "hole02",
       "handicap": 5,
       "name": null,
@@ -56,7 +56,7 @@
     {
       "number": 4,
       "par": 5,
-      "lengthM": 478,
+      "lengthM": 485,
       "file": "hole04",
       "handicap": 15,
       "name": null,
@@ -84,7 +84,7 @@
     {
       "number": 6,
       "par": 3,
-      "lengthM": 129,
+      "lengthM": 153,
       "file": "hole06",
       "handicap": 7,
       "name": null,
@@ -210,7 +210,7 @@
     {
       "number": 15,
       "par": 5,
-      "lengthM": 475,
+      "lengthM": 477,
       "file": "hole15",
       "handicap": 6,
       "name": null,
@@ -238,7 +238,7 @@
     {
       "number": 17,
       "par": 5,
-      "lengthM": 516,
+      "lengthM": 511,
       "file": "hole17",
       "handicap": 14,
       "name": null,
@@ -269,7 +269,12 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-19T14:21:08Z",
+  "imagery": {
+    "flightDate": null,
+    "source": "wms",
+    "demResolutionM": 1.0
+  },
+  "builtAt": "2026-11-16T07:13:20Z",
   "scorecardTees": [
     {
       "id": "valge",

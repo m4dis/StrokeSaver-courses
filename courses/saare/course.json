@@ -140,7 +140,7 @@
     {
       "number": 10,
       "par": 3,
-      "lengthM": 151,
+      "lengthM": 118,
       "file": "hole10",
       "handicap": 10,
       "name": null,
@@ -269,7 +269,12 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-12T05:16:00Z",
+  "imagery": {
+    "flightDate": "2019-06-06",
+    "source": "geoportal",
+    "demResolutionM": 1.0
+  },
+  "builtAt": "2026-11-16T07:12:18Z",
   "scorecardTees": [
     {
       "id": "white",

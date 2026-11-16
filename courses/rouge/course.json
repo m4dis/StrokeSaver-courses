@@ -50,7 +50,7 @@
     {
       "number": 4,
       "par": 5,
-      "lengthM": 312,
+      "lengthM": 321,
       "file": "hole04",
       "handicap": null,
       "name": "Viitina rada",
@@ -125,7 +125,12 @@
     "Kõrgusmudel 1 m © Maa- ja Ruumiamet",
     "Rajad © OpenStreetMap kaastöötajad (ODbL)"
   ],
-  "builtAt": "2026-10-19T14:25:01Z",
+  "imagery": {
+    "flightDate": "2021-06-17",
+    "source": "geoportal",
+    "demResolutionM": 1.0
+  },
+  "builtAt": "2026-11-16T07:16:08Z",
   "scorecardTees": [
     {
       "id": "men",

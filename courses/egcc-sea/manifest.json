@@ -1,11 +1,11 @@
 {
   "id": "egcc-sea",
-  "version": "2026-10-19T14:24:28Z",
+  "version": "2026-11-16T07:08:51Z",
   "files": [
     {
       "path": "course.json",
-      "bytes": 6920,
-      "sha256": "208e64cc9ce70639975a8a3b6a7328b32798681d76b7d5f57d713ed35a71995b"
+      "bytes": 7025,
+      "sha256": "5b6c9376a4fb2f5a97f0c400f0e5dce92368a24ae7669d5d94e9e224c51e5ce4"
     },
     {
       "path": "hole01.canopy",
@@ -39,8 +39,8 @@
     },
     {
       "path": "hole02.jpg",
-      "bytes": 598095,
-      "sha256": "348ca3debe1990ae37ca6de13de7bdc44f66d562ddacb58c721a021a35cb6247"
+      "bytes": 598093,
+      "sha256": "220442db8925be4506d944f766241c0a72eef0e760c3d3f9e549d2761b944fee"
     },
     {
       "path": "hole02.json",
@@ -124,8 +124,8 @@
     },
     {
       "path": "hole06.json",
-      "bytes": 41092,
-      "sha256": "7b3078a7e9caba5186176ded2a410a22cfecbcce0171874c3343b15d17b8378b"
+      "bytes": 41133,
+      "sha256": "4c0b60117b420c0c1659878e91c0ac4358a014ebd089961d2a3525dcc986aec8"
     },
     {
       "path": "hole07.canopy",
@@ -204,8 +204,8 @@
     },
     {
       "path": "hole10.json",
-      "bytes": 24767,
-      "sha256": "336382154325ff64261ff1091d740038c6410d0d64984704555e35c74a0303ba"
+      "bytes": 24975,
+      "sha256": "fcf7cb2c54b9fb20c3ab42071746e74628b16191c9ad35a0fcbbbcf235686967"
     },
     {
       "path": "hole11.canopy",
@@ -259,8 +259,8 @@
     },
     {
       "path": "hole13.jpg",
-      "bytes": 565050,
-      "sha256": "b688fe938269758bf2e6d0af5118857a708c950f832af3f2e70913bfd1883ad8"
+      "bytes": 565047,
+      "sha256": "45c81e791cda5a058acaef73f798e2a94cf64957abe3351ff3ed9f6de4e1919a"
     },
     {
       "path": "hole13.json",
@@ -324,8 +324,8 @@
     },
     {
       "path": "hole16.json",
-      "bytes": 24960,
-      "sha256": "ce103289aa8827f2ab17eccbdef6a0052b0662061162d621eb44ff4eacaa11b9"
+      "bytes": 24959,
+      "sha256": "0d76b6ed448996f87e084978f9f06df46d65de987e386353a009f882cfe74ac8"
     },
     {
       "path": "hole17.canopy",
@@ -359,8 +359,8 @@
     },
     {
       "path": "hole18.jpg",
-      "bytes": 1169660,
-      "sha256": "948985f7fb810f0810f37ecc9eac32295d847a4e4b124f3120e94abefdc3ffbc"
+      "bytes": 1169661,
+      "sha256": "2b8b6311ef5d21f37e42ef3baafb3d200976da09fd5fab5da05a80f5b7cf0ff3"
     },
     {
       "path": "hole18.json",

@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "generatedAt": "2026-11-16T07:51:17Z",
+  "generatedAt": "2026-11-16T08:16:42Z",
   "courses": [
     {
       "id": "egcc-sea",
@@ -13,14 +13,15 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-19T14:24:28Z",
-      "bytes": 18590600,
+      "version": "2026-11-16T07:08:51Z",
+      "bytes": 18590949,
       "manifest": "courses/egcc-sea/manifest.json",
       "thumb": "courses/egcc-sea/thumb.jpg",
       "holesMapped": 18,
       "imagery": {
         "flightDate": "2022-06-11",
-        "source": "geoportal"
+        "source": "geoportal",
+        "demResolutionM": 1.0
       },
       "mappingConfidence": null,
       "access": "free",
@@ -37,14 +38,15 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-19T14:21:08Z",
-      "bytes": 17632524,
+      "version": "2026-11-16T07:13:20Z",
+      "bytes": 17636024,
       "manifest": "courses/niitvalja/manifest.json",
       "thumb": "courses/niitvalja/thumb.jpg",
       "holesMapped": 18,
       "imagery": {
         "flightDate": null,
-        "source": "wms"
+        "source": "wms",
+        "demResolutionM": 1.0
       },
       "mappingConfidence": "low",
       "access": "free",
@@ -111,14 +113,15 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-12T05:10:13Z",
-      "bytes": 15689709,
+      "version": "2026-11-16T07:15:25Z",
+      "bytes": 15663584,
       "manifest": "courses/rae/manifest.json",
       "thumb": "courses/rae/thumb.jpg",
       "holesMapped": 18,
       "imagery": {
         "flightDate": "2022-06-11",
-        "source": "geoportal"
+        "source": "geoportal",
+        "demResolutionM": 1.0
       },
       "mappingConfidence": "low",
       "access": "free",
@@ -130,19 +133,20 @@
       "club": "Rõuge Golf",
       "place": "Rõuge",
       "country": "EE",
-      "lat": 57.724482,
-      "lon": 26.918875,
+      "lat": 57.724485,
+      "lon": 26.918872,
       "holesTotal": 9,
       "tier": "nine",
       "par": 33,
-      "version": "2026-10-19T14:25:01Z",
-      "bytes": 2587287,
+      "version": "2026-11-16T07:16:08Z",
+      "bytes": 2562978,
       "manifest": "courses/rouge/manifest.json",
       "thumb": "courses/rouge/thumb.jpg",
       "holesMapped": 9,
       "imagery": {
         "flightDate": "2021-06-17",
-        "source": "geoportal"
+        "source": "geoportal",
+        "demResolutionM": 1.0
       },
       "mappingConfidence": "low",
       "access": "free",
@@ -159,14 +163,15 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-12T05:16:00Z",
-      "bytes": 16517228,
+      "version": "2026-11-16T07:12:18Z",
+      "bytes": 16517330,
       "manifest": "courses/saare/manifest.json",
       "thumb": "courses/saare/thumb.jpg",
       "holesMapped": 18,
       "imagery": {
         "flightDate": "2019-06-06",
-        "source": "geoportal"
+        "source": "geoportal",
+        "demResolutionM": 1.0
       },
       "mappingConfidence": null,
       "access": "free",
@@ -178,19 +183,20 @@
       "club": "Uus-Meremäe Resort Golf",
       "place": "Pivarootsi",
       "country": "EE",
-      "lat": 58.550699,
-      "lon": 23.590753,
+      "lat": 58.550722,
+      "lon": 23.590768,
       "holesTotal": 9,
       "tier": "nine",
       "par": 30,
-      "version": "2026-10-12T04:57:02Z",
-      "bytes": 3163755,
+      "version": "2026-11-16T07:16:52Z",
+      "bytes": 3021943,
       "manifest": "courses/pivarootsi/manifest.json",
       "thumb": "courses/pivarootsi/thumb.jpg",
       "holesMapped": 9,
       "imagery": {
         "flightDate": "2023-06-09",
-        "source": "geoportal"
+        "source": "geoportal",
+        "demResolutionM": 1.0
       },
       "mappingConfidence": "low",
       "access": "free",
@@ -207,14 +213,15 @@
       "holesTotal": 18,
       "tier": "full",
       "par": 72,
-      "version": "2026-10-12T05:00:41Z",
-      "bytes": 13002162,
+      "version": "2026-11-16T07:13:03Z",
+      "bytes": 13129019,
       "manifest": "courses/wbg/manifest.json",
       "thumb": "courses/wbg/thumb.jpg",
       "holesMapped": 18,
       "imagery": {
         "flightDate": "2023-06-09",
-        "source": "geoportal"
+        "source": "geoportal",
+        "demResolutionM": 1.0
       },
       "mappingConfidence": null,
       "access": "free",
