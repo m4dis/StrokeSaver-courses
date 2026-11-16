@@ -1,6 +1,6 @@
 {
   "catalogVersion": 1,
-  "generatedAt": "2026-11-15T14:53:51Z",
+  "generatedAt": "2026-11-15T21:30:24Z",
   "courses": [
     {
       "id": "egcc-sea",
@@ -56,13 +56,13 @@
       "club": "Otepää Golf",
       "place": "Otepää",
       "country": "EE",
-      "lat": 58.054239,
-      "lon": 26.406406,
+      "lat": 58.054232,
+      "lon": 26.406388,
       "holesTotal": 18,
       "tier": "full",
       "par": 73,
-      "version": "2026-11-14T06:41:02Z",
-      "bytes": 18242612,
+      "version": "2026-11-15T21:25:23Z",
+      "bytes": 18142079,
       "manifest": "courses/otepaa/manifest.json",
       "thumb": "courses/otepaa/thumb.jpg",
       "holesMapped": 18,
