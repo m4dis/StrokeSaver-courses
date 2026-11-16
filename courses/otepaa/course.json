@@ -140,7 +140,7 @@
     {
       "number": 10,
       "par": 6,
-      "lengthM": 628,
+      "lengthM": 626,
       "file": "hole10",
       "handicap": 3,
       "name": null,
@@ -274,7 +274,7 @@
     "source": "wms",
     "demResolutionM": 1.0
   },
-  "builtAt": "2026-11-15T21:25:23Z",
+  "builtAt": "2026-11-16T07:48:57Z",
   "scorecardTees": [
     {
       "id": "white",

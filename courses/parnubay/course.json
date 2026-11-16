@@ -56,7 +56,7 @@
     {
       "number": 4,
       "par": 3,
-      "lengthM": 147,
+      "lengthM": 173,
       "file": "hole04",
       "handicap": 17,
       "name": null,
@@ -112,7 +112,7 @@
     {
       "number": 8,
       "par": 4,
-      "lengthM": 291,
+      "lengthM": 337,
       "file": "hole08",
       "handicap": 15,
       "name": null,
@@ -168,7 +168,7 @@
     {
       "number": 12,
       "par": 4,
-      "lengthM": 355,
+      "lengthM": 393,
       "file": "hole12",
       "handicap": 8,
       "name": null,
@@ -274,7 +274,7 @@
     "source": "geoportal",
     "demResolutionM": 1.0
   },
-  "builtAt": "2026-11-14T06:45:17Z",
+  "builtAt": "2026-11-16T07:10:46Z",
   "scorecardTees": [
     {
       "id": "pike",
